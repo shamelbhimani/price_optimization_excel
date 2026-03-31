@@ -1,0 +1,1001 @@
+Transaction ID,Date,Month,Quarter,Customer ID,SKU,Product Name,Category,Brand,Channel,Region,Quantity,Unit Price ($),Discount (%),Discount Amount ($),Revenue ($),COGS ($),Gross Profit ($),Payment Method,Order Status
+TXN-100001,2023-06-08,June,Q2,CUST-1920,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Mobile App,Southeast,2,78.84,15,23.65,134.03,95.36,38.67,Credit Card,Completed
+TXN-100002,2023-02-07,February,Q1,CUST-2865,SKU-1015,Denim Jacket,Apparel,UrbanThread,Social Commerce,Canada,4,51.98,10,20.79,187.13,132.16,54.97,Buy Now Pay Later,Completed
+TXN-100003,2023-07-24,July,Q3,CUST-1999,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Mobile App,Canada,4,94.76,5,18.95,360.09,315.28,44.81,Credit Card,Completed
+TXN-100004,2023-04-01,April,Q2,CUST-4293,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Social Commerce,Northeast,4,89.62,0,0.0,358.48,152.52,205.96,Buy Now Pay Later,Completed
+TXN-100005,2023-08-26,August,Q3,CUST-3734,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Marketplace,UK,4,124.26,0,0.0,497.04,210.48,286.56,Apple Pay,Cancelled
+TXN-100006,2023-10-08,October,Q4,CUST-2826,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Mobile App,Canada,4,99.34,20,79.47,317.89,149.4,168.49,Apple Pay,Returned
+TXN-100007,2023-11-23,November,Q4,CUST-2135,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,Canada,2,205.4,20,82.16,328.64,141.8,186.84,Debit Card,Completed
+TXN-100008,2023-05-27,May,Q2,CUST-1960,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Marketplace,Midwest,1,174.23,15,26.13,148.1,73.95,74.15,PayPal,Cancelled
+TXN-100009,2023-04-29,April,Q2,CUST-2568,SKU-1005,Webcam,Electronics,TechPro,Mobile App,Canada,2,26.46,0,0.0,52.92,38.84,14.08,Debit Card,Completed
+TXN-100010,2023-10-05,October,Q4,CUST-2908,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,Northeast,4,106.06,0,0.0,424.24,133.68,290.56,Debit Card,Returned
+TXN-100011,2023-10-22,October,Q4,CUST-2558,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Social Commerce,Northeast,1,118.07,20,23.61,94.46,39.7,54.76,PayPal,Completed
+TXN-100012,2023-08-03,August,Q3,CUST-3204,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Mobile App,Southwest,4,78.84,20,63.07,252.29,190.72,61.57,Debit Card,Completed
+TXN-100013,2023-07-19,July,Q3,CUST-2376,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Social Commerce,Canada,4,34.48,0,0.0,137.92,76.96,60.96,Debit Card,Returned
+TXN-100014,2023-10-31,October,Q4,CUST-3311,SKU-1008,LED Desk Lamp,Electronics,TechPro,Website,Northeast,1,81.6,5,4.08,77.52,29.32,48.2,Apple Pay,Completed
+TXN-100015,2023-05-14,May,Q2,CUST-2552,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Marketplace,Southeast,2,124.77,0,0.0,249.54,139.28,110.26,Apple Pay,Completed
+TXN-100016,2023-08-04,August,Q3,CUST-2033,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Website,Southwest,4,98.51,0,0.0,394.04,220.68,173.36,Credit Card,Cancelled
+TXN-100017,2023-11-29,November,Q4,CUST-1281,SKU-1003,Portable Charger,Electronics,TechPro,Website,UK,3,154.03,0,0.0,462.09,230.37,231.72,Credit Card,Completed
+TXN-100018,2023-03-20,March,Q1,CUST-1977,SKU-1012,Hoodie,Apparel,UrbanThread,Mobile App,Southwest,1,16.95,10,1.7,15.25,9.76,5.49,Credit Card,Cancelled
+TXN-100019,2023-05-12,May,Q2,CUST-4141,SKU-1013,Running Shorts,Apparel,PureWear,Marketplace,Southeast,4,84.95,15,50.97,288.83,212.28,76.55,Buy Now Pay Later,Cancelled
+TXN-100020,2023-03-25,March,Q1,CUST-4951,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Marketplace,Northeast,1,75.69,20,15.14,60.55,35.63,24.92,Buy Now Pay Later,Completed
+TXN-100021,2023-04-12,April,Q2,CUST-1311,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Northeast,4,160.35,5,32.07,609.33,289.88,319.45,PayPal,Cancelled
+TXN-100022,2023-09-30,September,Q3,CUST-2754,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Marketplace,Northeast,1,124.26,0,0.0,124.26,52.62,71.64,Buy Now Pay Later,Completed
+TXN-100023,2023-09-08,September,Q3,CUST-1432,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Social Commerce,Midwest,4,76.53,20,61.22,244.9,211.84,33.06,Apple Pay,Completed
+TXN-100024,2023-09-25,September,Q3,CUST-4954,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Marketplace,West,2,34.48,15,10.34,58.62,38.48,20.14,Buy Now Pay Later,Returned
+TXN-100025,2023-10-31,October,Q4,CUST-2099,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Marketplace,UK,4,124.77,20,99.82,399.26,278.56,120.7,Debit Card,Completed
+TXN-100026,2023-08-26,August,Q3,CUST-3334,SKU-1017,Baseball Cap,Apparel,FitForm,Social Commerce,Midwest,4,56.33,0,0.0,225.32,165.8,59.52,Credit Card,Returned
+TXN-100027,2023-04-19,April,Q2,CUST-2453,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Marketplace,Midwest,2,24.9,5,2.49,47.31,43.04,4.27,PayPal,Cancelled
+TXN-100028,2023-01-06,January,Q1,CUST-3116,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Mobile App,Northeast,3,144.95,10,43.48,391.37,231.57,159.8,Debit Card,Returned
+TXN-100029,2023-09-01,September,Q3,CUST-3645,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Social Commerce,Southwest,2,230.34,15,69.1,391.58,149.36,242.22,Credit Card,Completed
+TXN-100030,2023-12-21,December,Q4,CUST-1996,SKU-1018,Sneakers,Apparel,FitForm,Marketplace,Canada,2,103.56,5,10.36,196.76,89.16,107.6,Buy Now Pay Later,Completed
+TXN-100031,2023-10-09,October,Q4,CUST-2354,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Marketplace,Canada,3,54.64,5,8.2,155.72,60.96,94.76,Apple Pay,Completed
+TXN-100032,2023-03-03,March,Q1,CUST-3954,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Midwest,3,160.35,0,0.0,481.05,217.41,263.64,Credit Card,Cancelled
+TXN-100033,2023-04-21,April,Q2,CUST-4025,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,2,78.84,0,0.0,157.68,95.36,62.32,Buy Now Pay Later,Cancelled
+TXN-100034,2023-04-10,April,Q2,CUST-2213,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Mobile App,Midwest,3,77.67,0,0.0,233.01,84.36,148.65,Debit Card,Completed
+TXN-100035,2023-01-24,January,Q1,CUST-4990,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Website,West,2,76.53,0,0.0,153.06,105.92,47.14,PayPal,Completed
+TXN-100036,2023-01-07,January,Q1,CUST-3351,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Marketplace,Southwest,4,18.7,0,0.0,74.8,27.44,47.36,Apple Pay,Returned
+TXN-100037,2023-05-10,May,Q2,CUST-4854,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Social Commerce,Northeast,2,98.51,0,0.0,197.02,110.34,86.68,Credit Card,Returned
+TXN-100038,2023-11-19,November,Q4,CUST-3811,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Website,Southeast,1,230.34,10,23.03,207.31,74.68,132.63,Debit Card,Cancelled
+TXN-100039,2023-03-02,March,Q1,CUST-3285,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Social Commerce,West,1,160.35,0,0.0,160.35,72.47,87.88,Buy Now Pay Later,Cancelled
+TXN-100040,2023-08-15,August,Q3,CUST-2217,SKU-1014,Wool Sweater,Apparel,StyleCo,Social Commerce,Midwest,4,143.8,5,28.76,546.44,248.6,297.84,Buy Now Pay Later,Cancelled
+TXN-100041,2023-04-17,April,Q2,CUST-3562,SKU-1003,Portable Charger,Electronics,TechPro,Mobile App,Midwest,1,154.03,20,30.81,123.22,76.79,46.43,Credit Card,Completed
+TXN-100042,2023-02-08,February,Q1,CUST-1641,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,Southwest,2,51.98,10,10.4,93.56,66.08,27.48,Apple Pay,Cancelled
+TXN-100043,2023-04-29,April,Q2,CUST-2180,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Marketplace,Canada,3,54.64,0,0.0,163.92,60.96,102.96,Apple Pay,Completed
+TXN-100044,2023-11-17,November,Q4,CUST-3415,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Mobile App,Southwest,2,93.88,0,0.0,187.76,106.22,81.54,Credit Card,Cancelled
+TXN-100045,2023-03-14,March,Q1,CUST-1292,SKU-1014,Wool Sweater,Apparel,StyleCo,Website,Southeast,2,143.8,0,0.0,287.6,124.3,163.3,PayPal,Cancelled
+TXN-100046,2023-03-05,March,Q1,CUST-2919,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Marketplace,Canada,3,75.69,5,11.35,215.72,106.89,108.83,Apple Pay,Completed
+TXN-100047,2023-02-11,February,Q1,CUST-3449,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Website,Southwest,4,177.41,5,35.48,674.16,299.96,374.2,PayPal,Cancelled
+TXN-100048,2023-04-28,April,Q2,CUST-4939,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,UK,1,205.4,0,0.0,205.4,70.9,134.5,PayPal,Cancelled
+TXN-100049,2023-09-23,September,Q3,CUST-3668,SKU-1002,Smart Watch,Electronics,SoundWave,Social Commerce,Midwest,2,65.43,5,6.54,124.32,77.38,46.94,Debit Card,Cancelled
+TXN-100050,2023-08-29,August,Q3,CUST-2425,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Social Commerce,Midwest,4,34.48,0,0.0,137.92,76.96,60.96,PayPal,Completed
+TXN-100051,2023-12-22,December,Q4,CUST-3029,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,Canada,3,35.11,5,5.27,100.06,74.61,25.45,Apple Pay,Cancelled
+TXN-100052,2023-06-11,June,Q2,CUST-2033,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Northeast,4,65.43,0,0.0,261.72,154.76,106.96,Apple Pay,Cancelled
+TXN-100053,2023-01-28,January,Q1,CUST-1768,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Marketplace,West,4,76.53,5,15.31,290.81,211.84,78.97,Apple Pay,Returned
+TXN-100054,2023-05-17,May,Q2,CUST-3249,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Mobile App,Midwest,1,78.84,0,0.0,78.84,47.68,31.16,Apple Pay,Returned
+TXN-100055,2023-11-08,November,Q4,CUST-4273,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Mobile App,Canada,1,124.26,15,18.64,105.62,52.62,53.0,Debit Card,Completed
+TXN-100056,2023-07-28,July,Q3,CUST-1381,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,UK,1,98.58,10,9.86,88.72,52.57,36.15,Credit Card,Returned
+TXN-100057,2023-05-30,May,Q2,CUST-3084,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Marketplace,Southwest,2,124.26,5,12.43,236.09,105.24,130.85,Apple Pay,Returned
+TXN-100058,2023-03-16,March,Q1,CUST-2571,SKU-1015,Denim Jacket,Apparel,UrbanThread,Mobile App,West,4,51.98,10,20.79,187.13,132.16,54.97,Buy Now Pay Later,Completed
+TXN-100059,2023-08-01,August,Q3,CUST-2392,SKU-1004,USB-C Hub,Electronics,PixelEdge,Marketplace,UK,3,18.39,20,11.03,44.14,24.78,19.36,Credit Card,Completed
+TXN-100060,2023-10-28,October,Q4,CUST-3375,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Social Commerce,UK,3,99.34,20,59.6,238.42,112.05,126.37,Debit Card,Returned
+TXN-100061,2023-06-20,June,Q2,CUST-3260,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Social Commerce,Southwest,4,196.28,0,0.0,785.12,286.92,498.2,PayPal,Completed
+TXN-100062,2023-07-16,July,Q3,CUST-1956,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,Northeast,2,144.95,10,28.99,260.91,154.38,106.53,PayPal,Returned
+TXN-100063,2023-12-06,December,Q4,CUST-4245,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Mobile App,Southwest,4,94.76,5,18.95,360.09,315.28,44.81,Credit Card,Completed
+TXN-100064,2023-02-21,February,Q1,CUST-4580,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Social Commerce,Northeast,3,177.41,20,106.45,425.78,224.97,200.81,Buy Now Pay Later,Returned
+TXN-100065,2023-12-02,December,Q4,CUST-4972,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Mobile App,Northeast,2,76.53,5,7.65,145.41,105.92,39.49,Apple Pay,Completed
+TXN-100066,2023-02-11,February,Q1,CUST-4488,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Marketplace,UK,4,98.51,15,59.11,334.93,220.68,114.25,Buy Now Pay Later,Returned
+TXN-100067,2023-10-05,October,Q4,CUST-1147,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,Southeast,4,24.9,20,19.92,79.68,86.08,-6.4,PayPal,Completed
+TXN-100068,2023-02-20,February,Q1,CUST-4114,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Website,Southwest,1,75.69,5,3.78,71.91,35.63,36.28,Debit Card,Completed
+TXN-100069,2023-01-29,January,Q1,CUST-2201,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Marketplace,Midwest,1,53.26,0,0.0,53.26,36.64,16.62,Apple Pay,Completed
+TXN-100070,2023-12-16,December,Q4,CUST-4246,SKU-1015,Denim Jacket,Apparel,UrbanThread,Mobile App,Southeast,4,51.98,10,20.79,187.13,132.16,54.97,Debit Card,Completed
+TXN-100071,2023-12-16,December,Q4,CUST-1986,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Social Commerce,West,4,189.99,10,76.0,683.96,254.04,429.92,Debit Card,Completed
+TXN-100072,2023-05-11,May,Q2,CUST-3731,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,UK,3,124.77,5,18.72,355.59,208.92,146.67,Apple Pay,Completed
+TXN-100073,2023-08-15,August,Q3,CUST-4871,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Marketplace,West,2,93.88,0,0.0,187.76,106.22,81.54,PayPal,Returned
+TXN-100074,2023-06-04,June,Q2,CUST-1815,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,UK,3,144.95,5,21.74,413.11,231.57,181.54,Apple Pay,Completed
+TXN-100075,2023-07-03,July,Q3,CUST-3354,SKU-1015,Denim Jacket,Apparel,UrbanThread,Marketplace,Canada,4,51.98,10,20.79,187.13,132.16,54.97,PayPal,Completed
+TXN-100076,2023-01-05,January,Q1,CUST-3318,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Website,West,4,197.52,0,0.0,790.08,266.16,523.92,Apple Pay,Completed
+TXN-100077,2023-06-30,June,Q2,CUST-1897,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Mobile App,West,2,89.62,10,17.92,161.32,76.26,85.06,PayPal,Completed
+TXN-100078,2023-11-27,November,Q4,CUST-1161,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Marketplace,UK,1,18.7,15,2.81,15.89,6.86,9.03,Apple Pay,Completed
+TXN-100079,2023-03-09,March,Q1,CUST-1369,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,Midwest,3,26.61,15,11.97,67.86,31.92,35.94,Apple Pay,Completed
+TXN-100080,2023-10-04,October,Q4,CUST-4589,SKU-1012,Hoodie,Apparel,UrbanThread,Marketplace,West,2,16.95,20,6.78,27.12,19.52,7.6,Buy Now Pay Later,Completed
+TXN-100081,2023-09-04,September,Q3,CUST-4962,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,Canada,3,35.11,20,21.07,84.26,74.61,9.65,PayPal,Completed
+TXN-100082,2023-04-26,April,Q2,CUST-4523,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,UK,1,124.77,0,0.0,124.77,69.64,55.13,Buy Now Pay Later,Completed
+TXN-100083,2023-05-16,May,Q2,CUST-3197,SKU-1005,Webcam,Electronics,TechPro,Website,Southwest,4,26.46,0,0.0,105.84,77.68,28.16,PayPal,Completed
+TXN-100084,2023-11-23,November,Q4,CUST-4851,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,Northeast,4,26.61,20,21.29,85.15,42.56,42.59,Debit Card,Returned
+TXN-100085,2023-04-24,April,Q2,CUST-3652,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Website,Canada,3,53.26,10,15.98,143.8,109.92,33.88,Apple Pay,Completed
+TXN-100086,2023-03-13,March,Q1,CUST-1185,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,Midwest,4,93.41,0,0.0,373.64,256.2,117.44,Apple Pay,Completed
+TXN-100087,2023-03-11,March,Q1,CUST-2591,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Social Commerce,Midwest,2,113.18,10,22.64,203.72,78.02,125.7,Buy Now Pay Later,Returned
+TXN-100088,2023-12-02,December,Q4,CUST-1405,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Social Commerce,West,2,26.61,5,2.66,50.56,21.28,29.28,Apple Pay,Completed
+TXN-100089,2023-08-16,August,Q3,CUST-2821,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,UK,3,65.43,0,0.0,196.29,116.07,80.22,PayPal,Completed
+TXN-100090,2023-11-27,November,Q4,CUST-2469,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Southwest,3,93.88,10,28.16,253.48,159.33,94.15,PayPal,Completed
+TXN-100091,2023-12-06,December,Q4,CUST-1868,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,Northeast,4,124.26,0,0.0,497.04,210.48,286.56,PayPal,Completed
+TXN-100092,2023-10-11,October,Q4,CUST-1848,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,UK,2,81.6,0,0.0,163.2,58.64,104.56,Debit Card,Completed
+TXN-100093,2023-11-02,November,Q4,CUST-1011,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,UK,2,89.62,20,35.85,143.39,76.26,67.13,Debit Card,Completed
+TXN-100094,2023-03-31,March,Q1,CUST-1450,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Website,Southeast,3,196.28,20,117.77,471.07,215.19,255.88,Credit Card,Completed
+TXN-100095,2023-03-31,March,Q1,CUST-2086,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,Southeast,3,51.98,0,0.0,155.94,99.12,56.82,Apple Pay,Cancelled
+TXN-100096,2023-08-18,August,Q3,CUST-4186,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Marketplace,West,1,124.26,5,6.21,118.05,52.62,65.43,Buy Now Pay Later,Completed
+TXN-100097,2023-01-23,January,Q1,CUST-3978,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Marketplace,Southwest,2,174.23,10,34.85,313.61,147.9,165.71,Credit Card,Completed
+TXN-100098,2023-12-18,December,Q4,CUST-1442,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Canada,4,54.64,5,10.93,207.63,81.28,126.35,Apple Pay,Completed
+TXN-100099,2023-03-17,March,Q1,CUST-1269,SKU-1005,Webcam,Electronics,TechPro,Mobile App,Midwest,3,26.46,10,7.94,71.44,58.26,13.18,Buy Now Pay Later,Cancelled
+TXN-100100,2023-11-02,November,Q4,CUST-3173,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Marketplace,Southwest,3,98.58,5,14.79,280.95,157.71,123.24,Buy Now Pay Later,Cancelled
+TXN-100101,2023-12-26,December,Q4,CUST-1468,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Mobile App,Southwest,1,34.48,20,6.9,27.58,19.24,8.34,Apple Pay,Completed
+TXN-100102,2023-08-21,August,Q3,CUST-2633,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,Canada,3,106.06,20,63.64,254.54,100.26,154.28,Credit Card,Completed
+TXN-100103,2023-05-11,May,Q2,CUST-2533,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Mobile App,Canada,3,34.48,15,15.52,87.92,57.72,30.2,Apple Pay,Completed
+TXN-100104,2023-08-10,August,Q3,CUST-1395,SKU-1005,Webcam,Electronics,TechPro,Marketplace,UK,1,26.46,0,0.0,26.46,19.42,7.04,Debit Card,Cancelled
+TXN-100105,2023-03-04,March,Q1,CUST-2682,SKU-1003,Portable Charger,Electronics,TechPro,Marketplace,UK,3,154.03,15,69.31,392.78,230.37,162.41,Apple Pay,Completed
+TXN-100106,2023-02-23,February,Q1,CUST-3367,SKU-1018,Sneakers,Apparel,FitForm,Mobile App,Southeast,3,103.56,0,0.0,310.68,133.74,176.94,Apple Pay,Completed
+TXN-100107,2023-10-12,October,Q4,CUST-2505,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Website,UK,3,113.18,20,67.91,271.63,117.03,154.6,PayPal,Cancelled
+TXN-100108,2023-10-15,October,Q4,CUST-4991,SKU-1014,Wool Sweater,Apparel,StyleCo,Website,West,4,143.8,20,115.04,460.16,248.6,211.56,PayPal,Completed
+TXN-100109,2023-06-08,June,Q2,CUST-4774,SKU-1011,Graphic Tee,Apparel,UrbanThread,Marketplace,Midwest,3,67.56,15,30.4,172.28,129.63,42.65,Credit Card,Completed
+TXN-100110,2023-03-14,March,Q1,CUST-4035,SKU-1009,Phone Stand,Electronics,PixelEdge,Website,Northeast,4,133.99,0,0.0,535.96,293.96,242.0,Buy Now Pay Later,Completed
+TXN-100111,2023-06-24,June,Q2,CUST-1644,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Marketplace,Midwest,4,118.07,5,23.61,448.67,158.8,289.87,PayPal,Cancelled
+TXN-100112,2023-03-21,March,Q1,CUST-1644,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Website,Canada,1,77.67,0,0.0,77.67,28.12,49.55,Credit Card,Completed
+TXN-100113,2023-11-07,November,Q4,CUST-2810,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Social Commerce,Midwest,4,174.23,5,34.85,662.07,295.8,366.27,Debit Card,Cancelled
+TXN-100114,2023-02-26,February,Q1,CUST-2160,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,West,3,124.26,5,18.64,354.14,157.86,196.28,PayPal,Completed
+TXN-100115,2023-01-29,January,Q1,CUST-1031,SKU-1014,Wool Sweater,Apparel,StyleCo,Mobile App,Midwest,4,143.8,10,57.52,517.68,248.6,269.08,Debit Card,Completed
+TXN-100116,2023-06-17,June,Q2,CUST-1491,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Website,Southwest,3,78.84,0,0.0,236.52,143.04,93.48,Apple Pay,Completed
+TXN-100117,2023-12-27,December,Q4,CUST-1942,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,Northeast,4,81.6,10,32.64,293.76,117.28,176.48,Apple Pay,Completed
+TXN-100118,2023-02-09,February,Q1,CUST-4531,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Marketplace,West,1,34.48,5,1.72,32.76,19.24,13.52,Apple Pay,Cancelled
+TXN-100119,2023-02-28,February,Q1,CUST-2659,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Website,Midwest,4,218.05,0,0.0,872.2,297.92,574.28,Debit Card,Cancelled
+TXN-100120,2023-08-12,August,Q3,CUST-4459,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,Southeast,3,124.77,0,0.0,374.31,208.92,165.39,Apple Pay,Cancelled
+TXN-100121,2023-06-08,June,Q2,CUST-4054,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Marketplace,Southeast,1,218.05,5,10.9,207.15,74.48,132.67,PayPal,Completed
+TXN-100122,2023-09-19,September,Q3,CUST-1794,SKU-1004,USB-C Hub,Electronics,PixelEdge,Marketplace,Midwest,1,18.39,10,1.84,16.55,8.26,8.29,Debit Card,Completed
+TXN-100123,2023-04-12,April,Q2,CUST-1710,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Mobile App,UK,2,113.18,0,0.0,226.36,78.02,148.34,Credit Card,Completed
+TXN-100124,2023-10-16,October,Q4,CUST-4112,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Social Commerce,Canada,4,89.62,5,17.92,340.56,152.52,188.04,Buy Now Pay Later,Cancelled
+TXN-100125,2023-08-14,August,Q3,CUST-1279,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Social Commerce,Southwest,3,24.9,0,0.0,74.7,64.56,10.14,PayPal,Completed
+TXN-100126,2023-09-17,September,Q3,CUST-1303,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,Southwest,1,26.61,0,0.0,26.61,10.64,15.97,Apple Pay,Completed
+TXN-100127,2023-05-27,May,Q2,CUST-1314,SKU-1003,Portable Charger,Electronics,TechPro,Website,West,3,154.03,20,92.42,369.67,230.37,139.3,Buy Now Pay Later,Cancelled
+TXN-100128,2023-10-11,October,Q4,CUST-4908,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,Southwest,4,118.07,10,47.23,425.05,158.8,266.25,Buy Now Pay Later,Completed
+TXN-100129,2023-03-19,March,Q1,CUST-4922,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,Southwest,4,24.9,10,9.96,89.64,86.08,3.56,Credit Card,Completed
+TXN-100130,2023-11-27,November,Q4,CUST-1706,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Website,Southeast,1,94.76,10,9.48,85.28,78.82,6.46,Apple Pay,Returned
+TXN-100131,2023-07-10,July,Q3,CUST-4759,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Marketplace,Southwest,2,194.87,0,0.0,389.74,157.58,232.16,Apple Pay,Completed
+TXN-100132,2023-11-20,November,Q4,CUST-3651,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Marketplace,Northeast,1,93.88,20,18.78,75.1,53.11,21.99,PayPal,Completed
+TXN-100133,2023-05-10,May,Q2,CUST-3964,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,Midwest,4,98.58,0,0.0,394.32,210.28,184.04,Credit Card,Cancelled
+TXN-100134,2023-06-08,June,Q2,CUST-4963,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,Southeast,2,197.52,0,0.0,395.04,133.08,261.96,Buy Now Pay Later,Completed
+TXN-100135,2023-06-18,June,Q2,CUST-4330,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Canada,4,160.35,15,96.21,545.19,289.88,255.31,Buy Now Pay Later,Completed
+TXN-100136,2023-07-05,July,Q3,CUST-1074,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Marketplace,Midwest,4,93.41,10,37.36,336.28,256.2,80.08,Debit Card,Completed
+TXN-100137,2023-04-26,April,Q2,CUST-1563,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Mobile App,Northeast,4,98.51,0,0.0,394.04,220.68,173.36,PayPal,Completed
+TXN-100138,2023-06-22,June,Q2,CUST-4589,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Mobile App,West,1,177.41,15,26.61,150.8,74.99,75.81,Apple Pay,Completed
+TXN-100139,2023-12-21,December,Q4,CUST-4158,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,Canada,2,35.11,20,14.04,56.18,49.74,6.44,Apple Pay,Completed
+TXN-100140,2023-05-02,May,Q2,CUST-4971,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,West,3,106.06,15,47.73,270.45,100.26,170.19,PayPal,Returned
+TXN-100141,2023-08-29,August,Q3,CUST-4702,SKU-1014,Wool Sweater,Apparel,StyleCo,Mobile App,Midwest,2,143.8,0,0.0,287.6,124.3,163.3,Buy Now Pay Later,Returned
+TXN-100142,2023-07-15,July,Q3,CUST-3059,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,Southeast,3,124.77,20,74.86,299.45,208.92,90.53,Debit Card,Cancelled
+TXN-100143,2023-11-25,November,Q4,CUST-2968,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,West,3,81.6,0,0.0,244.8,87.96,156.84,Credit Card,Cancelled
+TXN-100144,2023-03-24,March,Q1,CUST-2117,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,West,3,124.26,0,0.0,372.78,157.86,214.92,Debit Card,Returned
+TXN-100145,2023-08-19,August,Q3,CUST-4623,SKU-1005,Webcam,Electronics,TechPro,Marketplace,Northeast,2,26.46,20,10.58,42.34,38.84,3.5,Apple Pay,Completed
+TXN-100146,2023-07-17,July,Q3,CUST-1334,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Marketplace,Southeast,3,218.05,0,0.0,654.15,223.44,430.71,Credit Card,Completed
+TXN-100147,2023-03-16,March,Q1,CUST-1563,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Website,Midwest,3,113.18,20,67.91,271.63,117.03,154.6,Apple Pay,Completed
+TXN-100148,2023-11-12,November,Q4,CUST-1021,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Website,Northeast,4,78.84,5,15.77,299.59,190.72,108.87,PayPal,Completed
+TXN-100149,2023-05-28,May,Q2,CUST-1973,SKU-1009,Phone Stand,Electronics,PixelEdge,Marketplace,Northeast,4,133.99,0,0.0,535.96,293.96,242.0,Credit Card,Completed
+TXN-100150,2023-02-26,February,Q1,CUST-4427,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,West,4,106.06,0,0.0,424.24,133.68,290.56,Buy Now Pay Later,Completed
+TXN-100151,2023-03-15,March,Q1,CUST-2193,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Northeast,2,18.7,15,5.61,31.79,13.72,18.07,Buy Now Pay Later,Completed
+TXN-100152,2023-12-07,December,Q4,CUST-3737,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,West,4,51.98,0,0.0,207.92,132.16,75.76,PayPal,Completed
+TXN-100153,2023-08-29,August,Q3,CUST-1178,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Social Commerce,Midwest,1,194.87,5,9.74,185.13,78.79,106.34,PayPal,Completed
+TXN-100154,2023-05-04,May,Q2,CUST-4002,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,UK,1,26.7,0,0.0,26.7,12.27,14.43,Buy Now Pay Later,Completed
+TXN-100155,2023-10-07,October,Q4,CUST-2386,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,UK,1,81.6,0,0.0,81.6,29.32,52.28,Apple Pay,Returned
+TXN-100156,2023-03-11,March,Q1,CUST-1258,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Northeast,2,18.7,20,7.48,29.92,13.72,16.2,PayPal,Completed
+TXN-100157,2023-06-11,June,Q2,CUST-4823,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,West,2,65.43,0,0.0,130.86,77.38,53.48,Apple Pay,Cancelled
+TXN-100158,2023-11-28,November,Q4,CUST-1782,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Marketplace,Midwest,3,54.64,0,0.0,163.92,60.96,102.96,Credit Card,Completed
+TXN-100159,2023-07-08,July,Q3,CUST-2789,SKU-1017,Baseball Cap,Apparel,FitForm,Social Commerce,Canada,1,56.33,20,11.27,45.06,41.45,3.61,Apple Pay,Returned
+TXN-100160,2023-12-21,December,Q4,CUST-3037,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Marketplace,UK,2,98.51,5,9.85,187.17,110.34,76.83,Buy Now Pay Later,Completed
+TXN-100161,2023-08-09,August,Q3,CUST-3467,SKU-1005,Webcam,Electronics,TechPro,Mobile App,West,4,26.46,0,0.0,105.84,77.68,28.16,PayPal,Completed
+TXN-100162,2023-12-05,December,Q4,CUST-2210,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Marketplace,Southwest,1,113.18,0,0.0,113.18,39.01,74.17,Buy Now Pay Later,Returned
+TXN-100163,2023-08-17,August,Q3,CUST-1173,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,West,4,35.11,0,0.0,140.44,99.48,40.96,Apple Pay,Completed
+TXN-100164,2023-12-10,December,Q4,CUST-3611,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Midwest,1,18.7,0,0.0,18.7,6.86,11.84,Buy Now Pay Later,Completed
+TXN-100165,2023-11-08,November,Q4,CUST-3777,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Social Commerce,Northeast,2,53.26,20,21.3,85.22,73.28,11.94,Debit Card,Completed
+TXN-100166,2023-07-16,July,Q3,CUST-4889,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,West,3,51.98,0,0.0,155.94,99.12,56.82,Debit Card,Returned
+TXN-100167,2023-02-09,February,Q1,CUST-3350,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Mobile App,West,3,53.95,5,8.09,153.76,105.6,48.16,PayPal,Returned
+TXN-100168,2023-02-28,February,Q1,CUST-1106,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Mobile App,Southwest,3,24.9,0,0.0,74.7,64.56,10.14,Buy Now Pay Later,Returned
+TXN-100169,2023-05-14,May,Q2,CUST-3883,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Social Commerce,Southeast,1,98.58,0,0.0,98.58,52.57,46.01,Buy Now Pay Later,Completed
+TXN-100170,2023-03-04,March,Q1,CUST-1555,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Website,Southwest,4,144.95,0,0.0,579.8,308.76,271.04,Debit Card,Returned
+TXN-100171,2023-06-27,June,Q2,CUST-3906,SKU-1005,Webcam,Electronics,TechPro,Website,West,3,26.46,15,11.91,67.47,58.26,9.21,Buy Now Pay Later,Completed
+TXN-100172,2023-12-30,December,Q4,CUST-4798,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,UK,2,160.35,15,48.1,272.6,144.94,127.66,PayPal,Cancelled
+TXN-100173,2023-03-13,March,Q1,CUST-1969,SKU-1014,Wool Sweater,Apparel,StyleCo,Social Commerce,Northeast,1,143.8,0,0.0,143.8,62.15,81.65,PayPal,Cancelled
+TXN-100174,2023-10-10,October,Q4,CUST-1531,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Website,Northeast,3,36.35,5,5.45,103.6,90.06,13.54,PayPal,Returned
+TXN-100175,2023-07-30,July,Q3,CUST-4150,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Social Commerce,UK,4,94.76,10,37.9,341.14,315.28,25.86,Buy Now Pay Later,Completed
+TXN-100176,2023-02-07,February,Q1,CUST-2843,SKU-1008,LED Desk Lamp,Electronics,TechPro,Social Commerce,Canada,3,81.6,15,36.72,208.08,87.96,120.12,Buy Now Pay Later,Completed
+TXN-100177,2023-03-08,March,Q1,CUST-2772,SKU-1008,LED Desk Lamp,Electronics,TechPro,Website,UK,2,81.6,20,32.64,130.56,58.64,71.92,Credit Card,Cancelled
+TXN-100178,2023-03-24,March,Q1,CUST-2321,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Midwest,3,133.99,0,0.0,401.97,220.47,181.5,Buy Now Pay Later,Completed
+TXN-100179,2023-11-22,November,Q4,CUST-4917,SKU-1005,Webcam,Electronics,TechPro,Marketplace,Southeast,3,26.46,0,0.0,79.38,58.26,21.12,PayPal,Cancelled
+TXN-100180,2023-11-25,November,Q4,CUST-1690,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Mobile App,Southeast,1,196.28,10,19.63,176.65,71.73,104.92,Buy Now Pay Later,Cancelled
+TXN-100181,2023-01-15,January,Q1,CUST-1332,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Website,Canada,1,98.51,20,19.7,78.81,55.17,23.64,Buy Now Pay Later,Completed
+TXN-100182,2023-10-20,October,Q4,CUST-2706,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,Southwest,2,93.41,20,37.36,149.46,128.1,21.36,Buy Now Pay Later,Completed
+TXN-100183,2023-05-06,May,Q2,CUST-4296,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,3,93.41,5,14.01,266.22,192.15,74.07,Apple Pay,Completed
+TXN-100184,2023-08-14,August,Q3,CUST-2702,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,Southwest,1,144.95,0,0.0,144.95,77.19,67.76,Debit Card,Completed
+TXN-100185,2023-06-13,June,Q2,CUST-4007,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Marketplace,Southwest,2,77.67,0,0.0,155.34,56.24,99.1,Debit Card,Completed
+TXN-100186,2023-05-04,May,Q2,CUST-2910,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Website,Midwest,1,177.41,0,0.0,177.41,74.99,102.42,Apple Pay,Completed
+TXN-100187,2023-05-29,May,Q2,CUST-4872,SKU-1009,Phone Stand,Electronics,PixelEdge,Social Commerce,UK,1,133.99,0,0.0,133.99,73.49,60.5,Buy Now Pay Later,Returned
+TXN-100188,2023-06-17,June,Q2,CUST-4824,SKU-1015,Denim Jacket,Apparel,UrbanThread,Marketplace,Southeast,2,51.98,20,20.79,83.17,66.08,17.09,Debit Card,Returned
+TXN-100189,2023-06-07,June,Q2,CUST-3037,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Website,Northeast,4,177.41,5,35.48,674.16,299.96,374.2,Apple Pay,Cancelled
+TXN-100190,2023-10-26,October,Q4,CUST-2445,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,Northeast,2,124.77,0,0.0,249.54,139.28,110.26,PayPal,Returned
+TXN-100191,2023-10-02,October,Q4,CUST-1033,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Website,Southwest,4,77.67,0,0.0,310.68,112.48,198.2,Debit Card,Completed
+TXN-100192,2023-07-26,July,Q3,CUST-2498,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,Southwest,3,99.34,20,59.6,238.42,112.05,126.37,Credit Card,Cancelled
+TXN-100193,2023-10-11,October,Q4,CUST-2182,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Website,Southwest,2,98.58,0,0.0,197.16,105.14,92.02,Buy Now Pay Later,Returned
+TXN-100194,2023-11-16,November,Q4,CUST-3786,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Website,Southeast,3,78.84,20,47.3,189.22,143.04,46.18,Credit Card,Returned
+TXN-100195,2023-07-07,July,Q3,CUST-4092,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Mobile App,Southeast,3,53.95,10,16.19,145.66,105.6,40.06,Buy Now Pay Later,Cancelled
+TXN-100196,2023-01-20,January,Q1,CUST-1561,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Marketplace,UK,1,218.05,0,0.0,218.05,74.48,143.57,Apple Pay,Cancelled
+TXN-100197,2023-09-21,September,Q3,CUST-1572,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Marketplace,West,2,124.77,10,24.95,224.59,139.28,85.31,PayPal,Completed
+TXN-100198,2023-06-22,June,Q2,CUST-3077,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Social Commerce,Canada,3,218.05,10,65.42,588.73,223.44,365.29,Buy Now Pay Later,Completed
+TXN-100199,2023-06-19,June,Q2,CUST-3759,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,Southwest,1,54.64,0,0.0,54.64,20.32,34.32,Buy Now Pay Later,Completed
+TXN-100200,2023-08-31,August,Q3,CUST-2087,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Mobile App,Canada,1,99.34,10,9.93,89.41,37.35,52.06,Credit Card,Cancelled
+TXN-100201,2023-11-19,November,Q4,CUST-3953,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Southeast,2,54.64,10,10.93,98.35,40.64,57.71,Debit Card,Completed
+TXN-100202,2023-01-10,January,Q1,CUST-2806,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,Southwest,1,36.35,0,0.0,36.35,30.02,6.33,Debit Card,Returned
+TXN-100203,2023-09-14,September,Q3,CUST-4174,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,UK,2,144.95,5,14.49,275.41,154.38,121.03,Credit Card,Completed
+TXN-100204,2023-06-16,June,Q2,CUST-3712,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Social Commerce,West,2,194.87,10,38.97,350.77,157.58,193.19,Apple Pay,Completed
+TXN-100205,2023-06-25,June,Q2,CUST-3237,SKU-1011,Graphic Tee,Apparel,UrbanThread,Marketplace,Canada,4,67.56,10,27.02,243.22,172.84,70.38,PayPal,Cancelled
+TXN-100206,2023-05-23,May,Q2,CUST-3285,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Marketplace,Southeast,2,54.64,0,0.0,109.28,40.64,68.64,PayPal,Completed
+TXN-100207,2023-12-27,December,Q4,CUST-3002,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Marketplace,Southwest,2,94.76,15,28.43,161.09,157.64,3.45,PayPal,Cancelled
+TXN-100208,2023-03-04,March,Q1,CUST-3348,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Social Commerce,Southwest,3,99.34,0,0.0,298.02,112.05,185.97,PayPal,Completed
+TXN-100209,2023-02-10,February,Q1,CUST-2418,SKU-1018,Sneakers,Apparel,FitForm,Social Commerce,Canada,1,103.56,0,0.0,103.56,44.58,58.98,PayPal,Returned
+TXN-100210,2023-10-03,October,Q4,CUST-2110,SKU-1013,Running Shorts,Apparel,PureWear,Marketplace,Southeast,2,84.95,20,33.98,135.92,106.14,29.78,Credit Card,Cancelled
+TXN-100211,2023-01-26,January,Q1,CUST-3743,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Mobile App,Canada,2,75.69,0,0.0,151.38,71.26,80.12,Debit Card,Completed
+TXN-100212,2023-08-30,August,Q3,CUST-1411,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Mobile App,Northeast,4,113.18,0,0.0,452.72,156.04,296.68,Buy Now Pay Later,Completed
+TXN-100213,2023-11-30,November,Q4,CUST-1816,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Marketplace,Midwest,4,106.06,5,21.21,403.03,133.68,269.35,PayPal,Completed
+TXN-100214,2023-10-21,October,Q4,CUST-1951,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Website,Southeast,1,89.62,15,13.44,76.18,38.13,38.05,Apple Pay,Completed
+TXN-100215,2023-09-11,September,Q3,CUST-1763,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Northeast,4,65.43,20,52.34,209.38,154.76,54.62,Credit Card,Completed
+TXN-100216,2023-05-26,May,Q2,CUST-2861,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,Southeast,1,36.35,0,0.0,36.35,30.02,6.33,Buy Now Pay Later,Returned
+TXN-100217,2023-02-27,February,Q1,CUST-2354,SKU-1017,Baseball Cap,Apparel,FitForm,Mobile App,Canada,2,56.33,20,22.53,90.13,82.9,7.23,Apple Pay,Completed
+TXN-100218,2023-06-22,June,Q2,CUST-4238,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Marketplace,West,2,94.76,0,0.0,189.52,157.64,31.88,Debit Card,Completed
+TXN-100219,2023-08-07,August,Q3,CUST-3110,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Marketplace,Northeast,4,189.99,20,151.99,607.97,254.04,353.93,Apple Pay,Completed
+TXN-100220,2023-06-15,June,Q2,CUST-4833,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,Northeast,2,67.56,5,6.76,128.36,86.42,41.94,PayPal,Returned
+TXN-100221,2023-05-17,May,Q2,CUST-4907,SKU-1015,Denim Jacket,Apparel,UrbanThread,Marketplace,Midwest,4,51.98,20,41.58,166.34,132.16,34.18,Buy Now Pay Later,Cancelled
+TXN-100222,2023-07-04,July,Q3,CUST-3837,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Mobile App,Northeast,3,76.53,15,34.44,195.15,158.88,36.27,Credit Card,Returned
+TXN-100223,2023-12-18,December,Q4,CUST-3058,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Marketplace,Canada,2,160.35,5,16.04,304.66,144.94,159.72,Credit Card,Completed
+TXN-100224,2023-03-10,March,Q1,CUST-2958,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Mobile App,Southwest,2,53.95,0,0.0,107.9,70.4,37.5,Buy Now Pay Later,Completed
+TXN-100225,2023-10-03,October,Q4,CUST-4284,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Mobile App,UK,4,106.06,20,84.85,339.39,133.68,205.71,Debit Card,Cancelled
+TXN-100226,2023-12-27,December,Q4,CUST-2481,SKU-1005,Webcam,Electronics,TechPro,Website,West,4,26.46,10,10.58,95.26,77.68,17.58,Credit Card,Completed
+TXN-100227,2023-10-02,October,Q4,CUST-1613,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,Midwest,2,98.58,10,19.72,177.44,105.14,72.3,Buy Now Pay Later,Returned
+TXN-100228,2023-10-26,October,Q4,CUST-3002,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,West,2,124.26,15,37.28,211.24,105.24,106.0,Apple Pay,Completed
+TXN-100229,2023-08-01,August,Q3,CUST-2871,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,West,2,124.77,10,24.95,224.59,139.28,85.31,Apple Pay,Completed
+TXN-100230,2023-05-11,May,Q2,CUST-4344,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,Canada,1,99.34,5,4.97,94.37,37.35,57.02,Debit Card,Cancelled
+TXN-100231,2023-06-26,June,Q2,CUST-3868,SKU-1004,USB-C Hub,Electronics,PixelEdge,Website,West,1,18.39,5,0.92,17.47,8.26,9.21,Credit Card,Completed
+TXN-100232,2023-07-29,July,Q3,CUST-1737,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,UK,1,54.64,0,0.0,54.64,20.32,34.32,Apple Pay,Completed
+TXN-100233,2023-07-13,July,Q3,CUST-2538,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,Canada,4,118.07,20,94.46,377.82,158.8,219.02,Buy Now Pay Later,Completed
+TXN-100234,2023-04-02,April,Q2,CUST-3200,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,West,3,93.41,0,0.0,280.23,192.15,88.08,Debit Card,Completed
+TXN-100235,2023-08-26,August,Q3,CUST-3758,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Social Commerce,West,1,76.53,0,0.0,76.53,52.96,23.57,Apple Pay,Completed
+TXN-100236,2023-03-21,March,Q1,CUST-2129,SKU-1015,Denim Jacket,Apparel,UrbanThread,Mobile App,Canada,4,51.98,0,0.0,207.92,132.16,75.76,Credit Card,Completed
+TXN-100237,2023-01-09,January,Q1,CUST-1985,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Mobile App,Northeast,4,197.52,10,79.01,711.07,266.16,444.91,Credit Card,Cancelled
+TXN-100238,2023-12-11,December,Q4,CUST-3880,SKU-1002,Smart Watch,Electronics,SoundWave,Website,Southeast,4,65.43,10,26.17,235.55,154.76,80.79,Credit Card,Returned
+TXN-100239,2023-04-22,April,Q2,CUST-4089,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Website,Southeast,2,174.23,10,34.85,313.61,147.9,165.71,Buy Now Pay Later,Completed
+TXN-100240,2023-11-03,November,Q4,CUST-4164,SKU-1014,Wool Sweater,Apparel,StyleCo,Marketplace,Southeast,3,143.8,10,43.14,388.26,186.45,201.81,PayPal,Completed
+TXN-100241,2023-06-03,June,Q2,CUST-2127,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Website,West,2,197.52,5,19.75,375.29,133.08,242.21,Buy Now Pay Later,Completed
+TXN-100242,2023-09-11,September,Q3,CUST-1192,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Marketplace,Canada,4,18.7,10,7.48,67.32,27.44,39.88,Apple Pay,Cancelled
+TXN-100243,2023-03-18,March,Q1,CUST-2228,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Social Commerce,Southeast,4,24.9,5,4.98,94.62,86.08,8.54,Buy Now Pay Later,Returned
+TXN-100244,2023-12-29,December,Q4,CUST-1591,SKU-1015,Denim Jacket,Apparel,UrbanThread,Social Commerce,Northeast,2,51.98,0,0.0,103.96,66.08,37.88,Buy Now Pay Later,Returned
+TXN-100245,2023-05-05,May,Q2,CUST-2044,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Mobile App,Midwest,2,106.06,5,10.61,201.51,66.84,134.67,Credit Card,Returned
+TXN-100246,2023-04-08,April,Q2,CUST-1211,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Marketplace,Southwest,1,53.95,10,5.39,48.56,35.2,13.36,Buy Now Pay Later,Cancelled
+TXN-100247,2023-10-28,October,Q4,CUST-3966,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,Southwest,1,65.43,0,0.0,65.43,38.69,26.74,Debit Card,Completed
+TXN-100248,2023-04-08,April,Q2,CUST-4940,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Website,Canada,1,160.35,0,0.0,160.35,72.47,87.88,Apple Pay,Completed
+TXN-100249,2023-05-03,May,Q2,CUST-3261,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Marketplace,UK,2,144.95,5,14.49,275.41,154.38,121.03,PayPal,Returned
+TXN-100250,2023-05-14,May,Q2,CUST-2473,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,Southwest,3,124.77,0,0.0,374.31,208.92,165.39,Credit Card,Returned
+TXN-100251,2023-07-09,July,Q3,CUST-2281,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Northeast,3,78.84,0,0.0,236.52,143.04,93.48,Buy Now Pay Later,Completed
+TXN-100252,2023-05-14,May,Q2,CUST-3266,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,2,75.69,0,0.0,151.38,71.26,80.12,Debit Card,Completed
+TXN-100253,2023-10-19,October,Q4,CUST-4413,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Mobile App,Southwest,2,98.51,5,9.85,187.17,110.34,76.83,Buy Now Pay Later,Completed
+TXN-100254,2023-11-25,November,Q4,CUST-4029,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,Southwest,4,205.4,15,123.24,698.36,283.6,414.76,Debit Card,Completed
+TXN-100255,2023-10-07,October,Q4,CUST-3000,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,West,2,35.11,15,10.53,59.69,49.74,9.95,Credit Card,Cancelled
+TXN-100256,2023-12-09,December,Q4,CUST-1198,SKU-1002,Smart Watch,Electronics,SoundWave,Website,Southwest,1,65.43,20,13.09,52.34,38.69,13.65,Debit Card,Completed
+TXN-100257,2023-04-22,April,Q2,CUST-3071,SKU-1004,USB-C Hub,Electronics,PixelEdge,Social Commerce,Midwest,2,18.39,0,0.0,36.78,16.52,20.26,Credit Card,Cancelled
+TXN-100258,2023-09-07,September,Q3,CUST-1064,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Website,West,4,18.7,15,11.22,63.58,27.44,36.14,Buy Now Pay Later,Returned
+TXN-100259,2023-05-21,May,Q2,CUST-3194,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Marketplace,Northeast,1,76.53,10,7.65,68.88,52.96,15.92,Buy Now Pay Later,Returned
+TXN-100260,2023-09-26,September,Q3,CUST-1609,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,Southeast,1,67.56,0,0.0,67.56,43.21,24.35,Buy Now Pay Later,Cancelled
+TXN-100261,2023-07-23,July,Q3,CUST-1323,SKU-1016,Yoga Pants,Apparel,UrbanThread,Marketplace,Southwest,3,205.4,0,0.0,616.2,212.7,403.5,Apple Pay,Cancelled
+TXN-100262,2023-12-17,December,Q4,CUST-4391,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,Canada,2,51.98,0,0.0,103.96,66.08,37.88,Credit Card,Completed
+TXN-100263,2023-10-10,October,Q4,CUST-2949,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Website,Canada,4,218.05,5,43.61,828.59,297.92,530.67,Credit Card,Completed
+TXN-100264,2023-08-11,August,Q3,CUST-3641,SKU-1005,Webcam,Electronics,TechPro,Marketplace,West,4,26.46,20,21.17,84.67,77.68,6.99,Credit Card,Cancelled
+TXN-100265,2023-12-21,December,Q4,CUST-4635,SKU-1002,Smart Watch,Electronics,SoundWave,Social Commerce,Midwest,2,65.43,0,0.0,130.86,77.38,53.48,Credit Card,Completed
+TXN-100266,2023-10-16,October,Q4,CUST-3695,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Southeast,3,93.88,10,28.16,253.48,159.33,94.15,PayPal,Completed
+TXN-100267,2023-12-31,December,Q4,CUST-4362,SKU-1013,Running Shorts,Apparel,PureWear,Social Commerce,Northeast,2,84.95,20,33.98,135.92,106.14,29.78,PayPal,Completed
+TXN-100268,2023-07-19,July,Q3,CUST-3773,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,Southwest,2,36.35,10,7.27,65.43,60.04,5.39,Debit Card,Completed
+TXN-100269,2023-02-20,February,Q1,CUST-2790,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Mobile App,UK,3,177.41,0,0.0,532.23,224.97,307.26,Credit Card,Completed
+TXN-100270,2023-06-17,June,Q2,CUST-1121,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Marketplace,UK,4,77.67,20,62.14,248.54,112.48,136.06,Apple Pay,Returned
+TXN-100271,2023-07-12,July,Q3,CUST-2768,SKU-1014,Wool Sweater,Apparel,StyleCo,Mobile App,Canada,3,143.8,10,43.14,388.26,186.45,201.81,Buy Now Pay Later,Returned
+TXN-100272,2023-05-07,May,Q2,CUST-3920,SKU-1005,Webcam,Electronics,TechPro,Website,Northeast,3,26.46,20,15.88,63.5,58.26,5.24,PayPal,Completed
+TXN-100273,2023-07-19,July,Q3,CUST-2297,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Marketplace,Northeast,2,118.07,15,35.42,200.72,79.4,121.32,Credit Card,Completed
+TXN-100274,2023-05-19,May,Q2,CUST-1418,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Northeast,4,160.35,0,0.0,641.4,289.88,351.52,Debit Card,Returned
+TXN-100275,2023-01-14,January,Q1,CUST-1367,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Marketplace,West,4,174.23,0,0.0,696.92,295.8,401.12,Credit Card,Cancelled
+TXN-100276,2023-07-17,July,Q3,CUST-1050,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Marketplace,Southwest,3,77.67,20,46.6,186.41,84.36,102.05,Apple Pay,Completed
+TXN-100277,2023-09-24,September,Q3,CUST-1694,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Social Commerce,Southeast,2,99.34,10,19.87,178.81,74.7,104.11,Debit Card,Completed
+TXN-100278,2023-03-16,March,Q1,CUST-1259,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Southwest,3,160.35,5,24.05,457.0,217.41,239.59,PayPal,Returned
+TXN-100279,2023-02-09,February,Q1,CUST-2479,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Marketplace,Southeast,4,160.35,20,128.28,513.12,289.88,223.24,Apple Pay,Cancelled
+TXN-100280,2023-02-24,February,Q1,CUST-1554,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Marketplace,Northeast,2,189.99,5,19.0,360.98,127.02,233.96,Apple Pay,Completed
+TXN-100281,2023-06-18,June,Q2,CUST-2803,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Marketplace,Southwest,4,189.99,20,151.99,607.97,254.04,353.93,Buy Now Pay Later,Completed
+TXN-100282,2023-12-22,December,Q4,CUST-1822,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Social Commerce,Midwest,3,160.35,10,48.1,432.95,217.41,215.54,Debit Card,Returned
+TXN-100283,2023-12-22,December,Q4,CUST-3592,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Social Commerce,West,3,24.9,15,11.2,63.5,64.56,-1.06,Debit Card,Completed
+TXN-100284,2023-07-21,July,Q3,CUST-2495,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,West,3,118.07,20,70.84,283.37,119.1,164.27,Debit Card,Cancelled
+TXN-100285,2023-10-09,October,Q4,CUST-1110,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Social Commerce,Canada,2,196.28,15,58.88,333.68,143.46,190.22,Debit Card,Returned
+TXN-100286,2023-07-29,July,Q3,CUST-3756,SKU-1018,Sneakers,Apparel,FitForm,Social Commerce,Southeast,1,103.56,20,20.71,82.85,44.58,38.27,PayPal,Completed
+TXN-100287,2023-08-05,August,Q3,CUST-4232,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,Northeast,2,205.4,15,61.62,349.18,141.8,207.38,Apple Pay,Cancelled
+TXN-100288,2023-09-17,September,Q3,CUST-4782,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,West,4,54.64,10,21.86,196.7,81.28,115.42,Credit Card,Completed
+TXN-100289,2023-05-08,May,Q2,CUST-3693,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Marketplace,Southeast,1,144.95,0,0.0,144.95,77.19,67.76,Buy Now Pay Later,Completed
+TXN-100290,2023-06-19,June,Q2,CUST-4955,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,Northeast,4,36.35,20,29.08,116.32,120.08,-3.76,Credit Card,Completed
+TXN-100291,2023-09-23,September,Q3,CUST-3285,SKU-1016,Yoga Pants,Apparel,UrbanThread,Mobile App,Southwest,2,205.4,10,41.08,369.72,141.8,227.92,PayPal,Returned
+TXN-100292,2023-01-13,January,Q1,CUST-2977,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,Midwest,2,124.77,0,0.0,249.54,139.28,110.26,Apple Pay,Completed
+TXN-100293,2023-06-09,June,Q2,CUST-2405,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,UK,2,124.26,0,0.0,248.52,105.24,143.28,Debit Card,Cancelled
+TXN-100294,2023-02-19,February,Q1,CUST-2794,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Midwest,3,54.64,5,8.2,155.72,60.96,94.76,Credit Card,Completed
+TXN-100295,2023-06-25,June,Q2,CUST-3654,SKU-1002,Smart Watch,Electronics,SoundWave,Website,Canada,1,65.43,0,0.0,65.43,38.69,26.74,Debit Card,Completed
+TXN-100296,2023-03-23,March,Q1,CUST-2355,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Social Commerce,Southwest,2,194.87,10,38.97,350.77,157.58,193.19,Debit Card,Returned
+TXN-100297,2023-11-24,November,Q4,CUST-3692,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Southwest,2,18.7,0,0.0,37.4,13.72,23.68,Credit Card,Cancelled
+TXN-100298,2023-08-08,August,Q3,CUST-2592,SKU-1012,Hoodie,Apparel,UrbanThread,Website,Canada,4,16.95,10,6.78,61.02,39.04,21.98,Debit Card,Completed
+TXN-100299,2023-02-22,February,Q1,CUST-4274,SKU-1017,Baseball Cap,Apparel,FitForm,Mobile App,Midwest,1,56.33,10,5.63,50.7,41.45,9.25,PayPal,Completed
+TXN-100300,2023-12-10,December,Q4,CUST-4533,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,West,1,124.77,0,0.0,124.77,69.64,55.13,PayPal,Cancelled
+TXN-100301,2023-02-28,February,Q1,CUST-2425,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Marketplace,UK,4,118.07,10,47.23,425.05,158.8,266.25,Apple Pay,Cancelled
+TXN-100302,2023-10-30,October,Q4,CUST-1347,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,Midwest,3,67.56,10,20.27,182.41,129.63,52.78,Credit Card,Completed
+TXN-100303,2023-07-11,July,Q3,CUST-3840,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,West,1,160.35,0,0.0,160.35,72.47,87.88,Apple Pay,Returned
+TXN-100304,2023-07-16,July,Q3,CUST-2732,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Mobile App,Southwest,2,77.67,10,15.53,139.81,56.24,83.57,Buy Now Pay Later,Completed
+TXN-100305,2023-05-28,May,Q2,CUST-1574,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,Midwest,2,98.58,5,9.86,187.3,105.14,82.16,Apple Pay,Cancelled
+TXN-100306,2023-09-06,September,Q3,CUST-1559,SKU-1003,Portable Charger,Electronics,TechPro,Mobile App,UK,3,154.03,0,0.0,462.09,230.37,231.72,Apple Pay,Cancelled
+TXN-100307,2023-12-17,December,Q4,CUST-3014,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Social Commerce,Canada,4,177.41,5,35.48,674.16,299.96,374.2,Apple Pay,Returned
+TXN-100308,2023-01-16,January,Q1,CUST-4259,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,Midwest,1,35.11,10,3.51,31.6,24.87,6.73,Credit Card,Completed
+TXN-100309,2023-08-23,August,Q3,CUST-3316,SKU-1014,Wool Sweater,Apparel,StyleCo,Social Commerce,West,3,143.8,0,0.0,431.4,186.45,244.95,Buy Now Pay Later,Completed
+TXN-100310,2023-10-06,October,Q4,CUST-4372,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,West,1,36.35,0,0.0,36.35,30.02,6.33,Credit Card,Returned
+TXN-100311,2023-02-22,February,Q1,CUST-4014,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Mobile App,Midwest,2,196.28,5,19.63,372.93,143.46,229.47,Credit Card,Returned
+TXN-100312,2023-02-14,February,Q1,CUST-2798,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,UK,3,205.4,20,123.24,492.96,212.7,280.26,Debit Card,Completed
+TXN-100313,2023-12-30,December,Q4,CUST-3499,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Social Commerce,Southeast,3,75.69,20,45.41,181.66,106.89,74.77,Buy Now Pay Later,Completed
+TXN-100314,2023-01-31,January,Q1,CUST-3335,SKU-1013,Running Shorts,Apparel,PureWear,Marketplace,West,2,84.95,20,33.98,135.92,106.14,29.78,PayPal,Cancelled
+TXN-100315,2023-12-27,December,Q4,CUST-2198,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,West,2,196.28,0,0.0,392.56,143.46,249.1,PayPal,Cancelled
+TXN-100316,2023-07-30,July,Q3,CUST-4763,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Midwest,1,93.88,0,0.0,93.88,53.11,40.77,Debit Card,Completed
+TXN-100317,2023-06-14,June,Q2,CUST-4393,SKU-1015,Denim Jacket,Apparel,UrbanThread,Mobile App,UK,2,51.98,15,15.59,88.37,66.08,22.29,Apple Pay,Returned
+TXN-100318,2023-08-01,August,Q3,CUST-2536,SKU-1009,Phone Stand,Electronics,PixelEdge,Social Commerce,Northeast,3,133.99,15,60.3,341.67,220.47,121.2,Credit Card,Returned
+TXN-100319,2023-07-08,July,Q3,CUST-2862,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Social Commerce,Midwest,3,177.41,15,79.83,452.4,224.97,227.43,Buy Now Pay Later,Completed
+TXN-100320,2023-08-23,August,Q3,CUST-3600,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,UK,1,89.62,15,13.44,76.18,38.13,38.05,Credit Card,Cancelled
+TXN-100321,2023-04-19,April,Q2,CUST-3026,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Marketplace,Midwest,2,218.05,5,21.8,414.3,148.96,265.34,PayPal,Completed
+TXN-100322,2023-09-06,September,Q3,CUST-4228,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Marketplace,Canada,2,98.58,10,19.72,177.44,105.14,72.3,Credit Card,Completed
+TXN-100323,2023-03-05,March,Q1,CUST-4806,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Mobile App,Southwest,4,113.18,0,0.0,452.72,156.04,296.68,Apple Pay,Completed
+TXN-100324,2023-03-09,March,Q1,CUST-4613,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Marketplace,Southeast,2,34.48,15,10.34,58.62,38.48,20.14,PayPal,Completed
+TXN-100325,2023-02-12,February,Q1,CUST-2523,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Mobile App,Northeast,3,93.41,0,0.0,280.23,192.15,88.08,Apple Pay,Completed
+TXN-100326,2023-12-02,December,Q4,CUST-1373,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,Northeast,2,99.34,5,9.93,188.75,74.7,114.05,Debit Card,Returned
+TXN-100327,2023-04-26,April,Q2,CUST-3127,SKU-1004,USB-C Hub,Electronics,PixelEdge,Social Commerce,Northeast,2,18.39,10,3.68,33.1,16.52,16.58,Credit Card,Completed
+TXN-100328,2023-03-09,March,Q1,CUST-2956,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,Southeast,4,124.26,15,74.56,422.48,210.48,212.0,Apple Pay,Completed
+TXN-100329,2023-06-10,June,Q2,CUST-2505,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Marketplace,Southeast,1,99.34,0,0.0,99.34,37.35,61.99,Apple Pay,Completed
+TXN-100330,2023-09-29,September,Q3,CUST-3307,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,West,2,93.41,0,0.0,186.82,128.1,58.72,Debit Card,Returned
+TXN-100331,2023-03-19,March,Q1,CUST-4767,SKU-1022,Blender,Home & Kitchen,CozyCraft,Social Commerce,West,2,26.7,15,8.01,45.39,24.54,20.85,Apple Pay,Completed
+TXN-100332,2023-03-05,March,Q1,CUST-3414,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,Midwest,1,26.46,0,0.0,26.46,19.42,7.04,Apple Pay,Completed
+TXN-100333,2023-11-27,November,Q4,CUST-1345,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,West,2,81.6,0,0.0,163.2,58.64,104.56,Buy Now Pay Later,Cancelled
+TXN-100334,2023-12-20,December,Q4,CUST-1109,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Marketplace,Southeast,3,99.34,20,59.6,238.42,112.05,126.37,Buy Now Pay Later,Cancelled
+TXN-100335,2023-07-20,July,Q3,CUST-2210,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Website,UK,2,177.41,15,53.22,301.6,149.98,151.62,Debit Card,Returned
+TXN-100336,2023-09-13,September,Q3,CUST-3613,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,West,1,118.07,0,0.0,118.07,39.7,78.37,Credit Card,Completed
+TXN-100337,2023-10-19,October,Q4,CUST-2723,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Marketplace,West,2,24.9,5,2.49,47.31,43.04,4.27,Debit Card,Returned
+TXN-100338,2023-10-28,October,Q4,CUST-1276,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Website,Midwest,1,89.62,0,0.0,89.62,38.13,51.49,Debit Card,Completed
+TXN-100339,2023-05-27,May,Q2,CUST-3574,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,Southwest,4,154.03,10,61.61,554.51,307.16,247.35,Apple Pay,Completed
+TXN-100340,2023-02-12,February,Q1,CUST-2269,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Website,West,2,18.7,0,0.0,37.4,13.72,23.68,Debit Card,Completed
+TXN-100341,2023-10-28,October,Q4,CUST-3598,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Website,Midwest,3,196.28,5,29.44,559.4,215.19,344.21,Apple Pay,Completed
+TXN-100342,2023-08-11,August,Q3,CUST-1475,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,West,2,154.03,0,0.0,308.06,153.58,154.48,Buy Now Pay Later,Completed
+TXN-100343,2023-01-07,January,Q1,CUST-3899,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Canada,2,160.35,0,0.0,320.7,144.94,175.76,Credit Card,Completed
+TXN-100344,2023-09-22,September,Q3,CUST-4207,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Marketplace,Southeast,3,230.34,10,69.1,621.92,224.04,397.88,PayPal,Completed
+TXN-100345,2023-03-02,March,Q1,CUST-4159,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Website,Midwest,3,75.69,15,34.06,193.01,106.89,86.12,Apple Pay,Completed
+TXN-100346,2023-12-31,December,Q4,CUST-4993,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Website,Southwest,1,194.87,0,0.0,194.87,78.79,116.08,Apple Pay,Cancelled
+TXN-100347,2023-10-18,October,Q4,CUST-1683,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Marketplace,Southeast,1,53.95,5,2.7,51.25,35.2,16.05,PayPal,Completed
+TXN-100348,2023-09-18,September,Q3,CUST-1010,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Website,UK,1,36.35,0,0.0,36.35,30.02,6.33,Credit Card,Completed
+TXN-100349,2023-07-16,July,Q3,CUST-4769,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,Southeast,4,65.43,0,0.0,261.72,154.76,106.96,Credit Card,Cancelled
+TXN-100350,2023-06-14,June,Q2,CUST-2016,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Social Commerce,Canada,4,94.76,0,0.0,379.04,315.28,63.76,PayPal,Completed
+TXN-100351,2023-09-15,September,Q3,CUST-3757,SKU-1004,USB-C Hub,Electronics,PixelEdge,Website,Southeast,3,18.39,0,0.0,55.17,24.78,30.39,Debit Card,Cancelled
+TXN-100352,2023-08-27,August,Q3,CUST-4547,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,UK,4,65.43,0,0.0,261.72,154.76,106.96,PayPal,Completed
+TXN-100353,2023-07-08,July,Q3,CUST-1821,SKU-1005,Webcam,Electronics,TechPro,Marketplace,West,4,26.46,0,0.0,105.84,77.68,28.16,PayPal,Cancelled
+TXN-100354,2023-10-30,October,Q4,CUST-4980,SKU-1015,Denim Jacket,Apparel,UrbanThread,Social Commerce,UK,4,51.98,0,0.0,207.92,132.16,75.76,Debit Card,Cancelled
+TXN-100355,2023-01-04,January,Q1,CUST-4819,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Northeast,2,78.84,0,0.0,157.68,95.36,62.32,Debit Card,Cancelled
+TXN-100356,2023-01-01,January,Q1,CUST-4108,SKU-1022,Blender,Home & Kitchen,CozyCraft,Social Commerce,UK,1,26.7,0,0.0,26.7,12.27,14.43,PayPal,Completed
+TXN-100357,2023-09-09,September,Q3,CUST-4937,SKU-1013,Running Shorts,Apparel,PureWear,Website,Southeast,2,84.95,5,8.49,161.41,106.14,55.27,PayPal,Completed
+TXN-100358,2023-09-24,September,Q3,CUST-2691,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Southwest,2,65.43,20,26.17,104.69,77.38,27.31,Credit Card,Cancelled
+TXN-100359,2023-07-21,July,Q3,CUST-1306,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Website,Southwest,2,113.18,15,33.95,192.41,78.02,114.39,Debit Card,Completed
+TXN-100360,2023-06-11,June,Q2,CUST-4793,SKU-1018,Sneakers,Apparel,FitForm,Social Commerce,Canada,3,103.56,20,62.14,248.54,133.74,114.8,PayPal,Completed
+TXN-100361,2023-02-08,February,Q1,CUST-4864,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Mobile App,Southeast,3,174.23,0,0.0,522.69,221.85,300.84,Buy Now Pay Later,Completed
+TXN-100362,2023-08-19,August,Q3,CUST-2908,SKU-1009,Phone Stand,Electronics,PixelEdge,Marketplace,Southwest,1,133.99,0,0.0,133.99,73.49,60.5,Credit Card,Cancelled
+TXN-100363,2023-06-07,June,Q2,CUST-2897,SKU-1022,Blender,Home & Kitchen,CozyCraft,Marketplace,UK,2,26.7,5,2.67,50.73,24.54,26.19,Credit Card,Completed
+TXN-100364,2023-12-27,December,Q4,CUST-3854,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Website,Southeast,3,35.11,20,21.07,84.26,74.61,9.65,PayPal,Completed
+TXN-100365,2023-07-22,July,Q3,CUST-3103,SKU-1005,Webcam,Electronics,TechPro,Website,Canada,2,26.46,0,0.0,52.92,38.84,14.08,PayPal,Completed
+TXN-100366,2023-08-20,August,Q3,CUST-3277,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,Northeast,1,67.56,5,3.38,64.18,43.21,20.97,Apple Pay,Completed
+TXN-100367,2023-02-01,February,Q1,CUST-4401,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,Southeast,1,81.6,0,0.0,81.6,29.32,52.28,Debit Card,Returned
+TXN-100368,2023-10-28,October,Q4,CUST-2060,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Website,Northeast,1,53.95,10,5.39,48.56,35.2,13.36,Credit Card,Completed
+TXN-100369,2023-03-07,March,Q1,CUST-1376,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Marketplace,Northeast,4,93.41,20,74.73,298.91,256.2,42.71,Credit Card,Returned
+TXN-100370,2023-08-10,August,Q3,CUST-4365,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,Southwest,2,154.03,10,30.81,277.25,153.58,123.67,Credit Card,Returned
+TXN-100371,2023-07-01,July,Q3,CUST-1879,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Mobile App,Midwest,4,93.88,0,0.0,375.52,212.44,163.08,PayPal,Returned
+TXN-100372,2023-11-14,November,Q4,CUST-3527,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Canada,1,133.99,10,13.4,120.59,73.49,47.1,PayPal,Returned
+TXN-100373,2023-02-14,February,Q1,CUST-2145,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,Southeast,4,106.06,0,0.0,424.24,133.68,290.56,Apple Pay,Completed
+TXN-100374,2023-10-06,October,Q4,CUST-4255,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,Southwest,2,93.41,15,28.02,158.8,128.1,30.7,PayPal,Returned
+TXN-100375,2023-10-17,October,Q4,CUST-3057,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,Southwest,4,196.28,0,0.0,785.12,286.92,498.2,PayPal,Completed
+TXN-100376,2023-04-23,April,Q2,CUST-1120,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Marketplace,Northeast,3,53.26,10,15.98,143.8,109.92,33.88,Apple Pay,Cancelled
+TXN-100377,2023-02-21,February,Q1,CUST-2015,SKU-1022,Blender,Home & Kitchen,CozyCraft,Mobile App,Midwest,2,26.7,0,0.0,53.4,24.54,28.86,Buy Now Pay Later,Completed
+TXN-100378,2023-07-18,July,Q3,CUST-2453,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Mobile App,Southeast,2,78.84,10,15.77,141.91,95.36,46.55,Debit Card,Cancelled
+TXN-100379,2023-01-15,January,Q1,CUST-3881,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Marketplace,West,3,24.9,10,7.47,67.23,64.56,2.67,Buy Now Pay Later,Completed
+TXN-100380,2023-09-10,September,Q3,CUST-3220,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,Southeast,2,36.35,20,14.54,58.16,60.04,-1.88,Apple Pay,Completed
+TXN-100381,2023-11-05,November,Q4,CUST-1896,SKU-1005,Webcam,Electronics,TechPro,Website,West,1,26.46,0,0.0,26.46,19.42,7.04,Apple Pay,Completed
+TXN-100382,2023-03-08,March,Q1,CUST-2395,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Mobile App,UK,2,98.51,20,39.4,157.62,110.34,47.28,PayPal,Completed
+TXN-100383,2023-12-27,December,Q4,CUST-4756,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Mobile App,UK,2,53.26,10,10.65,95.87,73.28,22.59,Credit Card,Cancelled
+TXN-100384,2023-12-27,December,Q4,CUST-4858,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Social Commerce,West,1,53.95,0,0.0,53.95,35.2,18.75,Credit Card,Completed
+TXN-100385,2023-03-22,March,Q1,CUST-3999,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Social Commerce,UK,3,160.35,0,0.0,481.05,217.41,263.64,Apple Pay,Completed
+TXN-100386,2023-12-07,December,Q4,CUST-3412,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,Southwest,3,67.56,0,0.0,202.68,129.63,73.05,PayPal,Completed
+TXN-100387,2023-01-01,January,Q1,CUST-4886,SKU-1008,LED Desk Lamp,Electronics,TechPro,Social Commerce,UK,2,81.6,15,24.48,138.72,58.64,80.08,Buy Now Pay Later,Completed
+TXN-100388,2023-11-10,November,Q4,CUST-1904,SKU-1011,Graphic Tee,Apparel,UrbanThread,Website,Southwest,3,67.56,20,40.54,162.14,129.63,32.51,Debit Card,Completed
+TXN-100389,2023-06-27,June,Q2,CUST-2308,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Mobile App,Canada,1,75.69,0,0.0,75.69,35.63,40.06,Credit Card,Completed
+TXN-100390,2023-04-18,April,Q2,CUST-2022,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Website,Midwest,1,174.23,0,0.0,174.23,73.95,100.28,PayPal,Completed
+TXN-100391,2023-07-17,July,Q3,CUST-2794,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Social Commerce,Southeast,1,99.34,0,0.0,99.34,37.35,61.99,Apple Pay,Returned
+TXN-100392,2023-07-12,July,Q3,CUST-1415,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Social Commerce,UK,3,118.07,10,35.42,318.79,119.1,199.69,Buy Now Pay Later,Completed
+TXN-100393,2023-01-18,January,Q1,CUST-2207,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Website,Midwest,4,35.11,0,0.0,140.44,99.48,40.96,PayPal,Completed
+TXN-100394,2023-07-12,July,Q3,CUST-1659,SKU-1004,USB-C Hub,Electronics,PixelEdge,Website,West,3,18.39,0,0.0,55.17,24.78,30.39,Credit Card,Completed
+TXN-100395,2023-01-16,January,Q1,CUST-2766,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Mobile App,West,4,77.67,15,46.6,264.08,112.48,151.6,Apple Pay,Completed
+TXN-100396,2023-04-16,April,Q2,CUST-4991,SKU-1003,Portable Charger,Electronics,TechPro,Mobile App,Southwest,1,154.03,0,0.0,154.03,76.79,77.24,Buy Now Pay Later,Cancelled
+TXN-100397,2023-05-02,May,Q2,CUST-1392,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,Southwest,3,205.4,0,0.0,616.2,212.7,403.5,Buy Now Pay Later,Cancelled
+TXN-100398,2023-07-04,July,Q3,CUST-1015,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Social Commerce,Northeast,2,230.34,0,0.0,460.68,149.36,311.32,PayPal,Cancelled
+TXN-100399,2023-01-14,January,Q1,CUST-1847,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,Canada,2,54.64,0,0.0,109.28,40.64,68.64,PayPal,Completed
+TXN-100400,2023-07-23,July,Q3,CUST-2928,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Canada,1,54.64,0,0.0,54.64,20.32,34.32,PayPal,Completed
+TXN-100401,2023-07-09,July,Q3,CUST-4626,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,4,93.41,0,0.0,373.64,256.2,117.44,Debit Card,Returned
+TXN-100402,2023-08-27,August,Q3,CUST-2078,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,UK,3,65.43,5,9.81,186.48,116.07,70.41,PayPal,Cancelled
+TXN-100403,2023-12-23,December,Q4,CUST-3733,SKU-1003,Portable Charger,Electronics,TechPro,Website,Northeast,2,154.03,20,61.61,246.45,153.58,92.87,PayPal,Cancelled
+TXN-100404,2023-02-01,February,Q1,CUST-4443,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,UK,2,106.06,10,21.21,190.91,66.84,124.07,Buy Now Pay Later,Returned
+TXN-100405,2023-05-01,May,Q2,CUST-2950,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,Northeast,4,196.28,10,78.51,706.61,286.92,419.69,Apple Pay,Completed
+TXN-100406,2023-08-18,August,Q3,CUST-1708,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Mobile App,Southeast,2,177.41,0,0.0,354.82,149.98,204.84,Debit Card,Completed
+TXN-100407,2023-12-16,December,Q4,CUST-2783,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,UK,4,65.43,0,0.0,261.72,154.76,106.96,Debit Card,Cancelled
+TXN-100408,2023-02-04,February,Q1,CUST-1356,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,West,3,205.4,15,92.43,523.77,212.7,311.07,Apple Pay,Cancelled
+TXN-100409,2023-08-23,August,Q3,CUST-4756,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,UK,3,24.9,10,7.47,67.23,64.56,2.67,Buy Now Pay Later,Cancelled
+TXN-100410,2023-08-01,August,Q3,CUST-1612,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Mobile App,West,4,194.87,0,0.0,779.48,315.16,464.32,Buy Now Pay Later,Cancelled
+TXN-100411,2023-10-16,October,Q4,CUST-4193,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Website,UK,1,78.84,0,0.0,78.84,47.68,31.16,PayPal,Cancelled
+TXN-100412,2023-07-16,July,Q3,CUST-3682,SKU-1022,Blender,Home & Kitchen,CozyCraft,Social Commerce,West,4,26.7,0,0.0,106.8,49.08,57.72,Buy Now Pay Later,Returned
+TXN-100413,2023-07-26,July,Q3,CUST-1589,SKU-1002,Smart Watch,Electronics,SoundWave,Social Commerce,Northeast,2,65.43,0,0.0,130.86,77.38,53.48,Apple Pay,Completed
+TXN-100414,2023-09-01,September,Q3,CUST-4771,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Marketplace,Midwest,2,144.95,0,0.0,289.9,154.38,135.52,Credit Card,Completed
+TXN-100415,2023-09-09,September,Q3,CUST-4515,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Website,UK,3,160.35,0,0.0,481.05,217.41,263.64,Debit Card,Completed
+TXN-100416,2023-06-14,June,Q2,CUST-2103,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Social Commerce,West,4,160.35,20,128.28,513.12,289.88,223.24,Credit Card,Completed
+TXN-100417,2023-07-28,July,Q3,CUST-4034,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Social Commerce,UK,2,174.23,20,69.69,278.77,147.9,130.87,Buy Now Pay Later,Completed
+TXN-100418,2023-06-09,June,Q2,CUST-3906,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,Southeast,2,154.03,0,0.0,308.06,153.58,154.48,Buy Now Pay Later,Cancelled
+TXN-100419,2023-04-13,April,Q2,CUST-4428,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Website,Southeast,2,53.26,0,0.0,106.52,73.28,33.24,Credit Card,Returned
+TXN-100420,2023-04-12,April,Q2,CUST-2122,SKU-1003,Portable Charger,Electronics,TechPro,Marketplace,UK,3,154.03,15,69.31,392.78,230.37,162.41,Apple Pay,Cancelled
+TXN-100421,2023-01-16,January,Q1,CUST-1990,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Marketplace,Southwest,1,218.05,15,32.71,185.34,74.48,110.86,Buy Now Pay Later,Returned
+TXN-100422,2023-10-10,October,Q4,CUST-2432,SKU-1011,Graphic Tee,Apparel,UrbanThread,Marketplace,Southeast,4,67.56,10,27.02,243.22,172.84,70.38,PayPal,Completed
+TXN-100423,2023-01-26,January,Q1,CUST-1667,SKU-1018,Sneakers,Apparel,FitForm,Mobile App,UK,1,103.56,5,5.18,98.38,44.58,53.8,Debit Card,Completed
+TXN-100424,2023-11-30,November,Q4,CUST-2677,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,UK,2,93.88,0,0.0,187.76,106.22,81.54,Credit Card,Returned
+TXN-100425,2023-01-05,January,Q1,CUST-1916,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,West,2,81.6,10,16.32,146.88,58.64,88.24,PayPal,Completed
+TXN-100426,2023-06-28,June,Q2,CUST-2880,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Marketplace,Southeast,4,34.48,20,27.58,110.34,76.96,33.38,Apple Pay,Completed
+TXN-100427,2023-02-22,February,Q1,CUST-1030,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Marketplace,West,4,93.88,10,37.55,337.97,212.44,125.53,Buy Now Pay Later,Cancelled
+TXN-100428,2023-02-25,February,Q1,CUST-2973,SKU-1018,Sneakers,Apparel,FitForm,Website,Midwest,3,103.56,15,46.6,264.08,133.74,130.34,PayPal,Completed
+TXN-100429,2023-12-31,December,Q4,CUST-4900,SKU-1017,Baseball Cap,Apparel,FitForm,Marketplace,Southeast,3,56.33,15,25.35,143.64,124.35,19.29,Debit Card,Cancelled
+TXN-100430,2023-11-04,November,Q4,CUST-2655,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Marketplace,Canada,2,78.84,0,0.0,157.68,95.36,62.32,Debit Card,Completed
+TXN-100431,2023-05-13,May,Q2,CUST-4714,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Southwest,4,93.41,0,0.0,373.64,256.2,117.44,Apple Pay,Completed
+TXN-100432,2023-04-24,April,Q2,CUST-3811,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Social Commerce,Canada,2,26.61,0,0.0,53.22,21.28,31.94,PayPal,Cancelled
+TXN-100433,2023-12-03,December,Q4,CUST-4590,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Midwest,2,160.35,20,64.14,256.56,144.94,111.62,Credit Card,Returned
+TXN-100434,2023-10-14,October,Q4,CUST-4124,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,Canada,3,81.6,15,36.72,208.08,87.96,120.12,PayPal,Completed
+TXN-100435,2023-06-07,June,Q2,CUST-2722,SKU-1014,Wool Sweater,Apparel,StyleCo,Marketplace,Midwest,3,143.8,0,0.0,431.4,186.45,244.95,PayPal,Cancelled
+TXN-100436,2023-03-02,March,Q1,CUST-2927,SKU-1018,Sneakers,Apparel,FitForm,Website,UK,4,103.56,20,82.85,331.39,178.32,153.07,Buy Now Pay Later,Cancelled
+TXN-100437,2023-04-10,April,Q2,CUST-3049,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Website,UK,1,189.99,5,9.5,180.49,63.51,116.98,Apple Pay,Cancelled
+TXN-100438,2023-03-19,March,Q1,CUST-1562,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Mobile App,Midwest,4,160.35,0,0.0,641.4,289.88,351.52,Apple Pay,Cancelled
+TXN-100439,2023-04-03,April,Q2,CUST-4190,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,Southwest,2,124.77,0,0.0,249.54,139.28,110.26,PayPal,Completed
+TXN-100440,2023-08-20,August,Q3,CUST-2120,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Mobile App,UK,1,24.9,0,0.0,24.9,21.52,3.38,Debit Card,Cancelled
+TXN-100441,2023-02-15,February,Q1,CUST-1530,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Canada,2,78.84,5,7.88,149.8,95.36,54.44,Apple Pay,Returned
+TXN-100442,2023-01-03,January,Q1,CUST-1154,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Mobile App,Canada,4,34.48,5,6.9,131.02,76.96,54.06,PayPal,Completed
+TXN-100443,2023-12-13,December,Q4,CUST-1016,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Mobile App,Southeast,2,24.9,0,0.0,49.8,43.04,6.76,PayPal,Completed
+TXN-100444,2023-09-15,September,Q3,CUST-3411,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,Southeast,1,81.6,5,4.08,77.52,29.32,48.2,Credit Card,Completed
+TXN-100445,2023-09-24,September,Q3,CUST-3442,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Marketplace,Southwest,3,160.35,5,24.05,457.0,217.41,239.59,Debit Card,Completed
+TXN-100446,2023-04-07,April,Q2,CUST-1675,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Social Commerce,Northeast,3,230.34,20,138.2,552.82,224.04,328.78,Debit Card,Completed
+TXN-100447,2023-01-12,January,Q1,CUST-3415,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Mobile App,Northeast,2,99.34,0,0.0,198.68,74.7,123.98,PayPal,Completed
+TXN-100448,2023-10-01,October,Q4,CUST-3552,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,West,3,118.07,20,70.84,283.37,119.1,164.27,Credit Card,Completed
+TXN-100449,2023-12-20,December,Q4,CUST-1474,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Southwest,1,93.41,0,0.0,93.41,64.05,29.36,Apple Pay,Completed
+TXN-100450,2023-12-26,December,Q4,CUST-1627,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,Canada,3,98.58,5,14.79,280.95,157.71,123.24,Credit Card,Completed
+TXN-100451,2023-09-24,September,Q3,CUST-2105,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Mobile App,Southwest,1,106.06,15,15.91,90.15,33.42,56.73,Credit Card,Cancelled
+TXN-100452,2023-02-28,February,Q1,CUST-4214,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,Southwest,1,99.34,0,0.0,99.34,37.35,61.99,Debit Card,Cancelled
+TXN-100453,2023-09-25,September,Q3,CUST-4985,SKU-1012,Hoodie,Apparel,UrbanThread,Mobile App,Midwest,3,16.95,20,10.17,40.68,29.28,11.4,Apple Pay,Completed
+TXN-100454,2023-09-12,September,Q3,CUST-4728,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,Canada,1,35.11,10,3.51,31.6,24.87,6.73,Apple Pay,Completed
+TXN-100455,2023-12-10,December,Q4,CUST-1364,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,UK,1,51.98,0,0.0,51.98,33.04,18.94,Buy Now Pay Later,Returned
+TXN-100456,2023-09-19,September,Q3,CUST-1307,SKU-1009,Phone Stand,Electronics,PixelEdge,Website,Midwest,1,133.99,20,26.8,107.19,73.49,33.7,Debit Card,Returned
+TXN-100457,2023-01-26,January,Q1,CUST-1408,SKU-1018,Sneakers,Apparel,FitForm,Mobile App,UK,3,103.56,5,15.53,295.15,133.74,161.41,Credit Card,Completed
+TXN-100458,2023-03-01,March,Q1,CUST-1389,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Website,Northeast,3,53.95,5,8.09,153.76,105.6,48.16,Debit Card,Completed
+TXN-100459,2023-11-15,November,Q4,CUST-2098,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Website,Midwest,3,98.51,5,14.78,280.75,165.51,115.24,PayPal,Completed
+TXN-100460,2023-08-22,August,Q3,CUST-2113,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,Canada,4,124.26,5,24.85,472.19,210.48,261.71,Apple Pay,Returned
+TXN-100461,2023-03-09,March,Q1,CUST-3851,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,UK,2,93.41,0,0.0,186.82,128.1,58.72,Debit Card,Completed
+TXN-100462,2023-10-19,October,Q4,CUST-3778,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,Southeast,4,106.06,20,84.85,339.39,133.68,205.71,Buy Now Pay Later,Returned
+TXN-100463,2023-01-15,January,Q1,CUST-4533,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Mobile App,Southwest,3,89.62,10,26.89,241.97,114.39,127.58,Apple Pay,Completed
+TXN-100464,2023-02-02,February,Q1,CUST-2071,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Marketplace,Northeast,4,106.06,0,0.0,424.24,133.68,290.56,Buy Now Pay Later,Cancelled
+TXN-100465,2023-06-23,June,Q2,CUST-3126,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,Southwest,2,99.34,15,29.8,168.88,74.7,94.18,Debit Card,Returned
+TXN-100466,2023-10-13,October,Q4,CUST-4653,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,Northeast,4,26.7,0,0.0,106.8,49.08,57.72,Debit Card,Cancelled
+TXN-100467,2023-03-26,March,Q1,CUST-1306,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Midwest,4,54.64,20,43.71,174.85,81.28,93.57,Debit Card,Completed
+TXN-100468,2023-04-25,April,Q2,CUST-3254,SKU-1017,Baseball Cap,Apparel,FitForm,Social Commerce,Southwest,1,56.33,10,5.63,50.7,41.45,9.25,Debit Card,Completed
+TXN-100469,2023-10-21,October,Q4,CUST-2835,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Website,UK,4,124.77,20,99.82,399.26,278.56,120.7,Apple Pay,Returned
+TXN-100470,2023-12-01,December,Q4,CUST-1072,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,Southwest,1,24.9,5,1.25,23.65,21.52,2.13,Apple Pay,Completed
+TXN-100471,2023-02-16,February,Q1,CUST-4243,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Marketplace,West,1,98.58,20,19.72,78.86,52.57,26.29,Buy Now Pay Later,Completed
+TXN-100472,2023-07-06,July,Q3,CUST-4380,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,UK,4,93.41,0,0.0,373.64,256.2,117.44,Debit Card,Returned
+TXN-100473,2023-12-03,December,Q4,CUST-2488,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Social Commerce,Northeast,4,98.51,15,59.11,334.93,220.68,114.25,Credit Card,Completed
+TXN-100474,2023-11-21,November,Q4,CUST-4950,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Marketplace,West,3,76.53,0,0.0,229.59,158.88,70.71,Buy Now Pay Later,Completed
+TXN-100475,2023-03-26,March,Q1,CUST-3016,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Mobile App,UK,1,144.95,0,0.0,144.95,77.19,67.76,Apple Pay,Completed
+TXN-100476,2023-03-03,March,Q1,CUST-4810,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,Southeast,2,205.4,0,0.0,410.8,141.8,269.0,Apple Pay,Completed
+TXN-100477,2023-08-01,August,Q3,CUST-1190,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Website,UK,3,94.76,0,0.0,284.28,236.46,47.82,Apple Pay,Returned
+TXN-100478,2023-01-03,January,Q1,CUST-3172,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Website,West,2,197.52,5,19.75,375.29,133.08,242.21,Apple Pay,Cancelled
+TXN-100479,2023-10-24,October,Q4,CUST-1711,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,Northeast,2,54.64,15,16.39,92.89,40.64,52.25,Apple Pay,Cancelled
+TXN-100480,2023-07-16,July,Q3,CUST-2714,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Mobile App,Midwest,3,77.67,10,23.3,209.71,84.36,125.35,Apple Pay,Completed
+TXN-100481,2023-03-10,March,Q1,CUST-1565,SKU-1018,Sneakers,Apparel,FitForm,Social Commerce,West,4,103.56,20,82.85,331.39,178.32,153.07,Buy Now Pay Later,Completed
+TXN-100482,2023-10-11,October,Q4,CUST-3591,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Mobile App,Southeast,3,144.95,15,65.23,369.62,231.57,138.05,Debit Card,Cancelled
+TXN-100483,2023-06-26,June,Q2,CUST-4773,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Mobile App,Canada,3,94.76,15,42.64,241.64,236.46,5.18,Debit Card,Cancelled
+TXN-100484,2023-03-01,March,Q1,CUST-4116,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,West,3,196.28,15,88.33,500.51,215.19,285.32,Apple Pay,Cancelled
+TXN-100485,2023-10-01,October,Q4,CUST-2171,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,UK,4,36.35,15,21.81,123.59,120.08,3.51,Credit Card,Cancelled
+TXN-100486,2023-03-16,March,Q1,CUST-1217,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Website,Southeast,1,113.18,5,5.66,107.52,39.01,68.51,PayPal,Completed
+TXN-100487,2023-02-01,February,Q1,CUST-3828,SKU-1018,Sneakers,Apparel,FitForm,Marketplace,Southeast,3,103.56,0,0.0,310.68,133.74,176.94,Buy Now Pay Later,Completed
+TXN-100488,2023-11-12,November,Q4,CUST-4555,SKU-1022,Blender,Home & Kitchen,CozyCraft,Mobile App,Canada,4,26.7,0,0.0,106.8,49.08,57.72,Buy Now Pay Later,Returned
+TXN-100489,2023-12-07,December,Q4,CUST-1192,SKU-1015,Denim Jacket,Apparel,UrbanThread,Social Commerce,Southwest,3,51.98,15,23.39,132.55,99.12,33.43,Apple Pay,Completed
+TXN-100490,2023-05-09,May,Q2,CUST-1831,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Social Commerce,UK,1,98.58,0,0.0,98.58,52.57,46.01,Debit Card,Completed
+TXN-100491,2023-04-10,April,Q2,CUST-2204,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Southeast,2,78.84,20,31.54,126.14,95.36,30.78,Credit Card,Completed
+TXN-100492,2023-01-21,January,Q1,CUST-2755,SKU-1011,Graphic Tee,Apparel,UrbanThread,Marketplace,West,1,67.56,5,3.38,64.18,43.21,20.97,PayPal,Completed
+TXN-100493,2023-06-19,June,Q2,CUST-2910,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,Northeast,3,35.11,0,0.0,105.33,74.61,30.72,Debit Card,Completed
+TXN-100494,2023-11-17,November,Q4,CUST-3521,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Marketplace,Southwest,1,77.67,20,15.53,62.14,28.12,34.02,Buy Now Pay Later,Cancelled
+TXN-100495,2023-12-29,December,Q4,CUST-2301,SKU-1022,Blender,Home & Kitchen,CozyCraft,Mobile App,Southeast,1,26.7,20,5.34,21.36,12.27,9.09,Buy Now Pay Later,Completed
+TXN-100496,2023-10-06,October,Q4,CUST-3199,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Social Commerce,Northeast,2,177.41,5,17.74,337.08,149.98,187.1,PayPal,Completed
+TXN-100497,2023-07-04,July,Q3,CUST-2202,SKU-1013,Running Shorts,Apparel,PureWear,Mobile App,UK,3,84.95,0,0.0,254.85,159.21,95.64,Buy Now Pay Later,Cancelled
+TXN-100498,2023-12-09,December,Q4,CUST-2417,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Southeast,1,54.64,0,0.0,54.64,20.32,34.32,Buy Now Pay Later,Cancelled
+TXN-100499,2023-06-14,June,Q2,CUST-2562,SKU-1015,Denim Jacket,Apparel,UrbanThread,Website,Southwest,1,51.98,15,7.8,44.18,33.04,11.14,PayPal,Cancelled
+TXN-100500,2023-09-22,September,Q3,CUST-4367,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Marketplace,West,3,99.34,0,0.0,298.02,112.05,185.97,Buy Now Pay Later,Returned
+TXN-100501,2023-11-30,November,Q4,CUST-1788,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Marketplace,West,1,230.34,0,0.0,230.34,74.68,155.66,Credit Card,Completed
+TXN-100502,2023-02-03,February,Q1,CUST-1863,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,UK,1,35.11,15,5.27,29.84,24.87,4.97,Apple Pay,Completed
+TXN-100503,2023-02-06,February,Q1,CUST-4059,SKU-1013,Running Shorts,Apparel,PureWear,Mobile App,Northeast,4,84.95,15,50.97,288.83,212.28,76.55,Apple Pay,Completed
+TXN-100504,2023-01-28,January,Q1,CUST-1729,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,West,1,65.43,0,0.0,65.43,38.69,26.74,Credit Card,Cancelled
+TXN-100505,2023-07-18,July,Q3,CUST-2847,SKU-1014,Wool Sweater,Apparel,StyleCo,Social Commerce,Southwest,3,143.8,5,21.57,409.83,186.45,223.38,PayPal,Completed
+TXN-100506,2023-01-04,January,Q1,CUST-3627,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,UK,1,118.07,10,11.81,106.26,39.7,66.56,Buy Now Pay Later,Completed
+TXN-100507,2023-09-15,September,Q3,CUST-1434,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Marketplace,UK,1,144.95,0,0.0,144.95,77.19,67.76,PayPal,Cancelled
+TXN-100508,2023-08-13,August,Q3,CUST-2562,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,UK,3,26.46,20,15.88,63.5,58.26,5.24,Credit Card,Returned
+TXN-100509,2023-07-20,July,Q3,CUST-4263,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,Canada,2,35.11,0,0.0,70.22,49.74,20.48,Debit Card,Completed
+TXN-100510,2023-10-11,October,Q4,CUST-4583,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Mobile App,Northeast,3,93.88,0,0.0,281.64,159.33,122.31,Credit Card,Completed
+TXN-100511,2023-10-08,October,Q4,CUST-4878,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Website,Midwest,4,36.35,10,14.54,130.86,120.08,10.78,Debit Card,Completed
+TXN-100512,2023-09-20,September,Q3,CUST-1583,SKU-1013,Running Shorts,Apparel,PureWear,Mobile App,Southeast,4,84.95,15,50.97,288.83,212.28,76.55,Debit Card,Cancelled
+TXN-100513,2023-04-03,April,Q2,CUST-3748,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,UK,2,205.4,0,0.0,410.8,141.8,269.0,Buy Now Pay Later,Returned
+TXN-100514,2023-12-10,December,Q4,CUST-1275,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Marketplace,Northeast,1,93.41,0,0.0,93.41,64.05,29.36,Debit Card,Cancelled
+TXN-100515,2023-03-07,March,Q1,CUST-3749,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Mobile App,Northeast,3,230.34,0,0.0,691.02,224.04,466.98,PayPal,Cancelled
+TXN-100516,2023-09-06,September,Q3,CUST-2845,SKU-1004,USB-C Hub,Electronics,PixelEdge,Marketplace,West,2,18.39,0,0.0,36.78,16.52,20.26,PayPal,Cancelled
+TXN-100517,2023-06-11,June,Q2,CUST-4926,SKU-1009,Phone Stand,Electronics,PixelEdge,Social Commerce,Southeast,3,133.99,20,80.39,321.58,220.47,101.11,Credit Card,Completed
+TXN-100518,2023-11-25,November,Q4,CUST-2786,SKU-1015,Denim Jacket,Apparel,UrbanThread,Marketplace,UK,2,51.98,15,15.59,88.37,66.08,22.29,PayPal,Completed
+TXN-100519,2023-08-25,August,Q3,CUST-2824,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Marketplace,UK,3,93.88,5,14.08,267.56,159.33,108.23,PayPal,Returned
+TXN-100520,2023-11-27,November,Q4,CUST-3484,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Website,UK,1,98.58,0,0.0,98.58,52.57,46.01,PayPal,Completed
+TXN-100521,2023-11-17,November,Q4,CUST-1313,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Website,Northeast,2,196.28,0,0.0,392.56,143.46,249.1,Buy Now Pay Later,Completed
+TXN-100522,2023-10-30,October,Q4,CUST-1871,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Website,West,4,26.61,20,21.29,85.15,42.56,42.59,PayPal,Cancelled
+TXN-100523,2023-03-18,March,Q1,CUST-2498,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Social Commerce,Southeast,4,196.28,15,117.77,667.35,286.92,380.43,Buy Now Pay Later,Completed
+TXN-100524,2023-09-19,September,Q3,CUST-1370,SKU-1008,LED Desk Lamp,Electronics,TechPro,Social Commerce,Midwest,4,81.6,10,32.64,293.76,117.28,176.48,Buy Now Pay Later,Completed
+TXN-100525,2023-11-11,November,Q4,CUST-3802,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Mobile App,UK,2,197.52,20,79.01,316.03,133.08,182.95,Buy Now Pay Later,Completed
+TXN-100526,2023-10-17,October,Q4,CUST-4885,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Mobile App,Canada,2,174.23,0,0.0,348.46,147.9,200.56,Apple Pay,Completed
+TXN-100527,2023-09-07,September,Q3,CUST-1949,SKU-1002,Smart Watch,Electronics,SoundWave,Website,Midwest,2,65.43,20,26.17,104.69,77.38,27.31,PayPal,Completed
+TXN-100528,2023-07-04,July,Q3,CUST-2589,SKU-1002,Smart Watch,Electronics,SoundWave,Social Commerce,Southwest,2,65.43,10,13.09,117.77,77.38,40.39,Credit Card,Completed
+TXN-100529,2023-12-27,December,Q4,CUST-4966,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Marketplace,UK,3,93.41,0,0.0,280.23,192.15,88.08,PayPal,Cancelled
+TXN-100530,2023-12-01,December,Q4,CUST-2550,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,West,2,196.28,5,19.63,372.93,143.46,229.47,Credit Card,Cancelled
+TXN-100531,2023-09-22,September,Q3,CUST-2662,SKU-1016,Yoga Pants,Apparel,UrbanThread,Marketplace,UK,4,205.4,0,0.0,821.6,283.6,538.0,PayPal,Returned
+TXN-100532,2023-03-13,March,Q1,CUST-2801,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,Southeast,1,54.64,10,5.46,49.18,20.32,28.86,Credit Card,Cancelled
+TXN-100533,2023-03-18,March,Q1,CUST-1765,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Mobile App,Midwest,3,93.41,0,0.0,280.23,192.15,88.08,Buy Now Pay Later,Completed
+TXN-100534,2023-06-19,June,Q2,CUST-3950,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Website,Southwest,2,197.52,5,19.75,375.29,133.08,242.21,Apple Pay,Returned
+TXN-100535,2023-07-30,July,Q3,CUST-1091,SKU-1013,Running Shorts,Apparel,PureWear,Mobile App,Northeast,2,84.95,15,25.48,144.42,106.14,38.28,Debit Card,Cancelled
+TXN-100536,2023-11-19,November,Q4,CUST-3099,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Website,West,2,26.61,0,0.0,53.22,21.28,31.94,Debit Card,Completed
+TXN-100537,2023-09-22,September,Q3,CUST-4924,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Social Commerce,West,3,35.11,0,0.0,105.33,74.61,30.72,Buy Now Pay Later,Completed
+TXN-100538,2023-04-21,April,Q2,CUST-2839,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Social Commerce,UK,3,99.34,0,0.0,298.02,112.05,185.97,Apple Pay,Completed
+TXN-100539,2023-03-15,March,Q1,CUST-4254,SKU-1014,Wool Sweater,Apparel,StyleCo,Mobile App,West,4,143.8,10,57.52,517.68,248.6,269.08,Buy Now Pay Later,Completed
+TXN-100540,2023-11-02,November,Q4,CUST-3419,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Website,Southeast,3,35.11,5,5.27,100.06,74.61,25.45,Apple Pay,Returned
+TXN-100541,2023-04-14,April,Q2,CUST-3141,SKU-1008,LED Desk Lamp,Electronics,TechPro,Social Commerce,UK,1,81.6,0,0.0,81.6,29.32,52.28,Debit Card,Cancelled
+TXN-100542,2023-11-11,November,Q4,CUST-3456,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Website,UK,2,113.18,5,11.32,215.04,78.02,137.02,Buy Now Pay Later,Cancelled
+TXN-100543,2023-09-04,September,Q3,CUST-3700,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Mobile App,West,1,78.84,0,0.0,78.84,47.68,31.16,Buy Now Pay Later,Completed
+TXN-100544,2023-08-04,August,Q3,CUST-2517,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Website,Canada,4,89.62,10,35.85,322.63,152.52,170.11,Buy Now Pay Later,Returned
+TXN-100545,2023-07-15,July,Q3,CUST-2435,SKU-1014,Wool Sweater,Apparel,StyleCo,Website,Southwest,4,143.8,20,115.04,460.16,248.6,211.56,Debit Card,Completed
+TXN-100546,2023-02-12,February,Q1,CUST-2160,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Midwest,2,54.64,20,21.86,87.42,40.64,46.78,Debit Card,Completed
+TXN-100547,2023-09-25,September,Q3,CUST-1482,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Website,Southwest,1,94.76,10,9.48,85.28,78.82,6.46,Debit Card,Completed
+TXN-100548,2023-03-21,March,Q1,CUST-2745,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Marketplace,Midwest,3,106.06,0,0.0,318.18,100.26,217.92,Buy Now Pay Later,Returned
+TXN-100549,2023-05-22,May,Q2,CUST-3787,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,UK,3,36.35,10,10.9,98.15,90.06,8.09,Debit Card,Returned
+TXN-100550,2023-07-09,July,Q3,CUST-3290,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Social Commerce,Midwest,4,98.58,0,0.0,394.32,210.28,184.04,PayPal,Cancelled
+TXN-100551,2023-03-12,March,Q1,CUST-4502,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,Canada,4,26.7,15,16.02,90.78,49.08,41.7,Debit Card,Returned
+TXN-100552,2023-04-20,April,Q2,CUST-3082,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,UK,2,144.95,0,0.0,289.9,154.38,135.52,PayPal,Cancelled
+TXN-100553,2023-07-19,July,Q3,CUST-4950,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Website,UK,1,189.99,0,0.0,189.99,63.51,126.48,Credit Card,Completed
+TXN-100554,2023-02-02,February,Q1,CUST-2077,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,Midwest,4,54.64,0,0.0,218.56,81.28,137.28,Credit Card,Cancelled
+TXN-100555,2023-11-11,November,Q4,CUST-3687,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Canada,4,65.43,5,13.09,248.63,154.76,93.87,Buy Now Pay Later,Completed
+TXN-100556,2023-09-11,September,Q3,CUST-2798,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Website,Southeast,2,89.62,15,26.89,152.35,76.26,76.09,Buy Now Pay Later,Completed
+TXN-100557,2023-11-03,November,Q4,CUST-3091,SKU-1012,Hoodie,Apparel,UrbanThread,Mobile App,West,1,16.95,20,3.39,13.56,9.76,3.8,Debit Card,Completed
+TXN-100558,2023-01-01,January,Q1,CUST-4996,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Mobile App,Northeast,2,53.95,15,16.18,91.72,70.4,21.32,PayPal,Returned
+TXN-100559,2023-10-28,October,Q4,CUST-1820,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,Canada,4,26.7,5,5.34,101.46,49.08,52.38,Credit Card,Completed
+TXN-100560,2023-10-14,October,Q4,CUST-4747,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Marketplace,Midwest,3,98.58,15,44.36,251.38,157.71,93.67,PayPal,Completed
+TXN-100561,2023-07-26,July,Q3,CUST-3354,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Website,Midwest,2,77.67,5,7.77,147.57,56.24,91.33,Debit Card,Returned
+TXN-100562,2023-02-07,February,Q1,CUST-3060,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Marketplace,Midwest,1,177.41,10,17.74,159.67,74.99,84.68,Credit Card,Cancelled
+TXN-100563,2023-08-15,August,Q3,CUST-4956,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,West,3,205.4,15,92.43,523.77,212.7,311.07,Apple Pay,Completed
+TXN-100564,2023-08-23,August,Q3,CUST-3791,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,West,3,78.84,20,47.3,189.22,143.04,46.18,Credit Card,Returned
+TXN-100565,2023-07-15,July,Q3,CUST-3595,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Mobile App,Canada,3,124.26,0,0.0,372.78,157.86,214.92,Debit Card,Completed
+TXN-100566,2023-10-02,October,Q4,CUST-1039,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Marketplace,Southeast,3,106.06,10,31.82,286.36,100.26,186.1,PayPal,Completed
+TXN-100567,2023-10-11,October,Q4,CUST-4814,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Mobile App,Southwest,3,218.05,0,0.0,654.15,223.44,430.71,PayPal,Completed
+TXN-100568,2023-12-16,December,Q4,CUST-4810,SKU-1013,Running Shorts,Apparel,PureWear,Mobile App,Southwest,3,84.95,0,0.0,254.85,159.21,95.64,Debit Card,Completed
+TXN-100569,2023-05-16,May,Q2,CUST-1846,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Mobile App,Southeast,2,75.69,20,30.28,121.1,71.26,49.84,Debit Card,Cancelled
+TXN-100570,2023-02-24,February,Q1,CUST-1491,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,Canada,2,26.7,20,10.68,42.72,24.54,18.18,Apple Pay,Cancelled
+TXN-100571,2023-09-04,September,Q3,CUST-2520,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Marketplace,Southwest,1,76.53,20,15.31,61.22,52.96,8.26,Buy Now Pay Later,Completed
+TXN-100572,2023-09-19,September,Q3,CUST-2147,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Social Commerce,Southeast,2,230.34,20,92.14,368.54,149.36,219.18,Buy Now Pay Later,Completed
+TXN-100573,2023-10-04,October,Q4,CUST-1133,SKU-1003,Portable Charger,Electronics,TechPro,Marketplace,Southwest,4,154.03,5,30.81,585.31,307.16,278.15,Debit Card,Returned
+TXN-100574,2023-12-19,December,Q4,CUST-1034,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,Canada,4,124.26,0,0.0,497.04,210.48,286.56,Debit Card,Returned
+TXN-100575,2023-07-05,July,Q3,CUST-3509,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,Southeast,1,26.61,0,0.0,26.61,10.64,15.97,Buy Now Pay Later,Completed
+TXN-100576,2023-11-10,November,Q4,CUST-2405,SKU-1015,Denim Jacket,Apparel,UrbanThread,Marketplace,Southeast,3,51.98,5,7.8,148.14,99.12,49.02,Apple Pay,Returned
+TXN-100577,2023-07-10,July,Q3,CUST-2495,SKU-1013,Running Shorts,Apparel,PureWear,Social Commerce,Midwest,4,84.95,15,50.97,288.83,212.28,76.55,Apple Pay,Completed
+TXN-100578,2023-12-18,December,Q4,CUST-1936,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Website,Canada,2,36.35,10,7.27,65.43,60.04,5.39,PayPal,Completed
+TXN-100579,2023-07-15,July,Q3,CUST-1803,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,UK,4,98.58,20,78.86,315.46,210.28,105.18,Debit Card,Returned
+TXN-100580,2023-09-13,September,Q3,CUST-1550,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Marketplace,UK,2,76.53,5,7.65,145.41,105.92,39.49,Apple Pay,Completed
+TXN-100581,2023-02-20,February,Q1,CUST-3828,SKU-1016,Yoga Pants,Apparel,UrbanThread,Mobile App,Northeast,1,205.4,5,10.27,195.13,70.9,124.23,Debit Card,Completed
+TXN-100582,2023-06-21,June,Q2,CUST-2064,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Marketplace,Midwest,1,54.64,5,2.73,51.91,20.32,31.59,Buy Now Pay Later,Cancelled
+TXN-100583,2023-07-30,July,Q3,CUST-1496,SKU-1016,Yoga Pants,Apparel,UrbanThread,Marketplace,UK,3,205.4,0,0.0,616.2,212.7,403.5,Buy Now Pay Later,Completed
+TXN-100584,2023-05-26,May,Q2,CUST-2454,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,Canada,2,36.35,20,14.54,58.16,60.04,-1.88,Buy Now Pay Later,Returned
+TXN-100585,2023-07-15,July,Q3,CUST-3513,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,Southwest,4,89.62,0,0.0,358.48,152.52,205.96,Debit Card,Completed
+TXN-100586,2023-11-20,November,Q4,CUST-3508,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,UK,3,18.7,5,2.81,53.29,20.58,32.71,Credit Card,Completed
+TXN-100587,2023-06-10,June,Q2,CUST-2297,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,Canada,3,35.11,0,0.0,105.33,74.61,30.72,PayPal,Cancelled
+TXN-100588,2023-08-16,August,Q3,CUST-4198,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Marketplace,Canada,4,93.41,0,0.0,373.64,256.2,117.44,Buy Now Pay Later,Cancelled
+TXN-100589,2023-04-05,April,Q2,CUST-4498,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Website,Southeast,4,174.23,0,0.0,696.92,295.8,401.12,Debit Card,Completed
+TXN-100590,2023-03-27,March,Q1,CUST-2626,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Website,Northeast,1,75.69,0,0.0,75.69,35.63,40.06,Credit Card,Returned
+TXN-100591,2023-07-23,July,Q3,CUST-3146,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Website,Northeast,1,98.58,0,0.0,98.58,52.57,46.01,PayPal,Cancelled
+TXN-100592,2023-07-19,July,Q3,CUST-2267,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Southeast,1,133.99,15,20.1,113.89,73.49,40.4,PayPal,Returned
+TXN-100593,2023-09-27,September,Q3,CUST-4434,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Mobile App,Northeast,2,18.7,0,0.0,37.4,13.72,23.68,Credit Card,Completed
+TXN-100594,2023-10-04,October,Q4,CUST-4829,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Marketplace,West,4,24.9,5,4.98,94.62,86.08,8.54,Apple Pay,Completed
+TXN-100595,2023-11-02,November,Q4,CUST-2870,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,West,2,144.95,10,28.99,260.91,154.38,106.53,Buy Now Pay Later,Completed
+TXN-100596,2023-04-27,April,Q2,CUST-4296,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,Southwest,4,26.7,10,10.68,96.12,49.08,47.04,PayPal,Completed
+TXN-100597,2023-06-05,June,Q2,CUST-1043,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Website,West,3,106.06,0,0.0,318.18,100.26,217.92,Debit Card,Completed
+TXN-100598,2023-01-05,January,Q1,CUST-3817,SKU-1018,Sneakers,Apparel,FitForm,Social Commerce,UK,4,103.56,10,41.42,372.82,178.32,194.5,Apple Pay,Completed
+TXN-100599,2023-05-30,May,Q2,CUST-3445,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Mobile App,UK,4,76.53,20,61.22,244.9,211.84,33.06,Credit Card,Cancelled
+TXN-100600,2023-10-15,October,Q4,CUST-2790,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Social Commerce,Southeast,2,53.95,5,5.39,102.51,70.4,32.11,Debit Card,Returned
+TXN-100601,2023-02-10,February,Q1,CUST-2729,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Mobile App,West,2,118.07,0,0.0,236.14,79.4,156.74,Buy Now Pay Later,Completed
+TXN-100602,2023-04-07,April,Q2,CUST-4495,SKU-1018,Sneakers,Apparel,FitForm,Website,Southeast,3,103.56,5,15.53,295.15,133.74,161.41,Debit Card,Completed
+TXN-100603,2023-08-20,August,Q3,CUST-2114,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,Southeast,4,124.26,10,49.7,447.34,210.48,236.86,PayPal,Completed
+TXN-100604,2023-01-12,January,Q1,CUST-1761,SKU-1009,Phone Stand,Electronics,PixelEdge,Website,Midwest,1,133.99,10,13.4,120.59,73.49,47.1,PayPal,Completed
+TXN-100605,2023-01-05,January,Q1,CUST-1953,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Website,Southeast,4,94.76,15,56.86,322.18,315.28,6.9,Credit Card,Returned
+TXN-100606,2023-06-09,June,Q2,CUST-4218,SKU-1013,Running Shorts,Apparel,PureWear,Social Commerce,Midwest,3,84.95,5,12.74,242.11,159.21,82.9,Apple Pay,Completed
+TXN-100607,2023-03-16,March,Q1,CUST-1229,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Marketplace,UK,1,98.51,20,19.7,78.81,55.17,23.64,Apple Pay,Completed
+TXN-100608,2023-04-09,April,Q2,CUST-4668,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,UK,4,196.28,0,0.0,785.12,286.92,498.2,Apple Pay,Completed
+TXN-100609,2023-08-15,August,Q3,CUST-2012,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,Southeast,2,124.26,5,12.43,236.09,105.24,130.85,Apple Pay,Completed
+TXN-100610,2023-07-19,July,Q3,CUST-3791,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Marketplace,Midwest,2,194.87,5,19.49,370.25,157.58,212.67,Debit Card,Completed
+TXN-100611,2023-09-04,September,Q3,CUST-3615,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Marketplace,Southeast,1,75.69,0,0.0,75.69,35.63,40.06,PayPal,Completed
+TXN-100612,2023-05-01,May,Q2,CUST-3592,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,2,197.52,0,0.0,395.04,133.08,261.96,Credit Card,Completed
+TXN-100613,2023-05-05,May,Q2,CUST-1036,SKU-1017,Baseball Cap,Apparel,FitForm,Website,West,1,56.33,5,2.82,53.51,41.45,12.06,Apple Pay,Cancelled
+TXN-100614,2023-02-15,February,Q1,CUST-2018,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Southwest,3,133.99,20,80.39,321.58,220.47,101.11,Credit Card,Cancelled
+TXN-100615,2023-07-02,July,Q3,CUST-3640,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Mobile App,Canada,1,98.51,0,0.0,98.51,55.17,43.34,Buy Now Pay Later,Completed
+TXN-100616,2023-06-12,June,Q2,CUST-3287,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,UK,4,81.6,0,0.0,326.4,117.28,209.12,Apple Pay,Completed
+TXN-100617,2023-03-10,March,Q1,CUST-2026,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Website,Southwest,4,53.26,0,0.0,213.04,146.56,66.48,Apple Pay,Cancelled
+TXN-100618,2023-10-18,October,Q4,CUST-1764,SKU-1018,Sneakers,Apparel,FitForm,Marketplace,Midwest,4,103.56,0,0.0,414.24,178.32,235.92,Apple Pay,Completed
+TXN-100619,2023-09-29,September,Q3,CUST-1634,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Social Commerce,Midwest,2,77.67,0,0.0,155.34,56.24,99.1,PayPal,Cancelled
+TXN-100620,2023-11-23,November,Q4,CUST-3072,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Social Commerce,Canada,4,53.95,0,0.0,215.8,140.8,75.0,Debit Card,Completed
+TXN-100621,2023-11-14,November,Q4,CUST-1978,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Marketplace,Canada,3,189.99,20,113.99,455.98,190.53,265.45,Credit Card,Cancelled
+TXN-100622,2023-12-16,December,Q4,CUST-3037,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Mobile App,West,2,118.07,10,23.61,212.53,79.4,133.13,PayPal,Completed
+TXN-100623,2023-02-19,February,Q1,CUST-3143,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Website,Northeast,3,106.06,0,0.0,318.18,100.26,217.92,Debit Card,Completed
+TXN-100624,2023-09-06,September,Q3,CUST-1784,SKU-1002,Smart Watch,Electronics,SoundWave,Website,Northeast,2,65.43,0,0.0,130.86,77.38,53.48,Buy Now Pay Later,Returned
+TXN-100625,2023-11-16,November,Q4,CUST-3872,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Marketplace,Northeast,4,197.52,10,79.01,711.07,266.16,444.91,PayPal,Completed
+TXN-100626,2023-04-17,April,Q2,CUST-3685,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Social Commerce,UK,1,77.67,0,0.0,77.67,28.12,49.55,Credit Card,Returned
+TXN-100627,2023-10-13,October,Q4,CUST-4045,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,UK,1,18.7,0,0.0,18.7,6.86,11.84,PayPal,Completed
+TXN-100628,2023-01-21,January,Q1,CUST-4007,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Website,UK,3,189.99,10,57.0,512.97,190.53,322.44,PayPal,Completed
+TXN-100629,2023-04-29,April,Q2,CUST-3177,SKU-1013,Running Shorts,Apparel,PureWear,Social Commerce,Southeast,1,84.95,0,0.0,84.95,53.07,31.88,Debit Card,Cancelled
+TXN-100630,2023-11-17,November,Q4,CUST-4880,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Mobile App,West,2,197.52,10,39.5,355.54,133.08,222.46,Buy Now Pay Later,Returned
+TXN-100631,2023-11-23,November,Q4,CUST-3361,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Marketplace,Canada,1,75.69,20,15.14,60.55,35.63,24.92,Apple Pay,Returned
+TXN-100632,2023-04-03,April,Q2,CUST-3252,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Social Commerce,West,2,113.18,20,45.27,181.09,78.02,103.07,PayPal,Completed
+TXN-100633,2023-06-11,June,Q2,CUST-3253,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,UK,4,196.28,0,0.0,785.12,286.92,498.2,PayPal,Returned
+TXN-100634,2023-06-15,June,Q2,CUST-3492,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Mobile App,West,4,78.84,20,63.07,252.29,190.72,61.57,Buy Now Pay Later,Completed
+TXN-100635,2023-08-20,August,Q3,CUST-2832,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Social Commerce,Northeast,3,118.07,0,0.0,354.21,119.1,235.11,Credit Card,Completed
+TXN-100636,2023-03-11,March,Q1,CUST-4646,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Marketplace,Northeast,1,77.67,10,7.77,69.9,28.12,41.78,PayPal,Completed
+TXN-100637,2023-12-20,December,Q4,CUST-4368,SKU-1013,Running Shorts,Apparel,PureWear,Marketplace,West,3,84.95,0,0.0,254.85,159.21,95.64,Buy Now Pay Later,Cancelled
+TXN-100638,2023-01-20,January,Q1,CUST-2885,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,Southeast,2,36.35,0,0.0,72.7,60.04,12.66,Debit Card,Completed
+TXN-100639,2023-05-12,May,Q2,CUST-4322,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Marketplace,Northeast,2,53.95,0,0.0,107.9,70.4,37.5,Buy Now Pay Later,Returned
+TXN-100640,2023-02-09,February,Q1,CUST-3963,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,UK,2,36.35,15,10.9,61.8,60.04,1.76,Apple Pay,Completed
+TXN-100641,2023-11-25,November,Q4,CUST-2230,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Website,Canada,1,230.34,10,23.03,207.31,74.68,132.63,Buy Now Pay Later,Returned
+TXN-100642,2023-06-21,June,Q2,CUST-2425,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,Southwest,1,26.46,20,5.29,21.17,19.42,1.75,Credit Card,Completed
+TXN-100643,2023-11-20,November,Q4,CUST-2566,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Website,Midwest,1,75.69,15,11.35,64.34,35.63,28.71,Buy Now Pay Later,Completed
+TXN-100644,2023-09-15,September,Q3,CUST-3858,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Mobile App,Southeast,2,24.9,0,0.0,49.8,43.04,6.76,Credit Card,Returned
+TXN-100645,2023-08-10,August,Q3,CUST-2186,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Social Commerce,Southeast,1,174.23,0,0.0,174.23,73.95,100.28,Debit Card,Completed
+TXN-100646,2023-01-26,January,Q1,CUST-3245,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,Midwest,4,26.46,10,10.58,95.26,77.68,17.58,Credit Card,Returned
+TXN-100647,2023-12-24,December,Q4,CUST-1534,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Mobile App,Southwest,4,177.41,20,141.93,567.71,299.96,267.75,Buy Now Pay Later,Completed
+TXN-100648,2023-10-20,October,Q4,CUST-1803,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Mobile App,Southeast,4,230.34,15,138.2,783.16,298.72,484.44,Credit Card,Completed
+TXN-100649,2023-12-17,December,Q4,CUST-4785,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Website,Northeast,4,89.62,0,0.0,358.48,152.52,205.96,Apple Pay,Returned
+TXN-100650,2023-06-14,June,Q2,CUST-2411,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Website,UK,3,53.95,0,0.0,161.85,105.6,56.25,PayPal,Completed
+TXN-100651,2023-03-16,March,Q1,CUST-2804,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,UK,4,26.7,10,10.68,96.12,49.08,47.04,Debit Card,Completed
+TXN-100652,2023-02-13,February,Q1,CUST-1460,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Southeast,3,93.88,0,0.0,281.64,159.33,122.31,Buy Now Pay Later,Completed
+TXN-100653,2023-12-22,December,Q4,CUST-4294,SKU-1018,Sneakers,Apparel,FitForm,Website,Midwest,1,103.56,0,0.0,103.56,44.58,58.98,Apple Pay,Returned
+TXN-100654,2023-10-03,October,Q4,CUST-1867,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Mobile App,West,3,53.26,0,0.0,159.78,109.92,49.86,Buy Now Pay Later,Completed
+TXN-100655,2023-03-14,March,Q1,CUST-3847,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Website,Southwest,4,98.58,10,39.43,354.89,210.28,144.61,Buy Now Pay Later,Cancelled
+TXN-100656,2023-01-31,January,Q1,CUST-2163,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,UK,3,65.43,0,0.0,196.29,116.07,80.22,Buy Now Pay Later,Completed
+TXN-100657,2023-01-05,January,Q1,CUST-1272,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,Canada,4,154.03,15,92.42,523.7,307.16,216.54,PayPal,Completed
+TXN-100658,2023-11-29,November,Q4,CUST-2583,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Mobile App,Southwest,1,113.18,0,0.0,113.18,39.01,74.17,Buy Now Pay Later,Completed
+TXN-100659,2023-11-02,November,Q4,CUST-3177,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,Southeast,4,24.9,20,19.92,79.68,86.08,-6.4,Debit Card,Cancelled
+TXN-100660,2023-05-07,May,Q2,CUST-4777,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Marketplace,Midwest,1,124.77,0,0.0,124.77,69.64,55.13,Apple Pay,Returned
+TXN-100661,2023-06-27,June,Q2,CUST-3802,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Marketplace,Midwest,2,75.69,0,0.0,151.38,71.26,80.12,PayPal,Completed
+TXN-100662,2023-02-01,February,Q1,CUST-3563,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Marketplace,Southwest,3,177.41,20,106.45,425.78,224.97,200.81,Credit Card,Cancelled
+TXN-100663,2023-06-24,June,Q2,CUST-4674,SKU-1017,Baseball Cap,Apparel,FitForm,Social Commerce,Canada,2,56.33,0,0.0,112.66,82.9,29.76,Debit Card,Completed
+TXN-100664,2023-12-14,December,Q4,CUST-3508,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Mobile App,Southwest,4,99.34,10,39.74,357.62,149.4,208.22,Debit Card,Cancelled
+TXN-100665,2023-11-06,November,Q4,CUST-2348,SKU-1009,Phone Stand,Electronics,PixelEdge,Social Commerce,West,4,133.99,0,0.0,535.96,293.96,242.0,Debit Card,Completed
+TXN-100666,2023-10-05,October,Q4,CUST-3801,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Mobile App,UK,2,93.41,10,18.68,168.14,128.1,40.04,Debit Card,Completed
+TXN-100667,2023-03-16,March,Q1,CUST-3687,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Mobile App,Midwest,2,144.95,5,14.49,275.41,154.38,121.03,Credit Card,Cancelled
+TXN-100668,2023-06-12,June,Q2,CUST-4438,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Mobile App,Canada,1,196.28,0,0.0,196.28,71.73,124.55,Credit Card,Completed
+TXN-100669,2023-08-15,August,Q3,CUST-4054,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Marketplace,Southeast,4,106.06,0,0.0,424.24,133.68,290.56,Debit Card,Completed
+TXN-100670,2023-11-10,November,Q4,CUST-3527,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,West,2,81.6,0,0.0,163.2,58.64,104.56,Buy Now Pay Later,Cancelled
+TXN-100671,2023-12-18,December,Q4,CUST-1106,SKU-1014,Wool Sweater,Apparel,StyleCo,Marketplace,Northeast,2,143.8,0,0.0,287.6,124.3,163.3,Apple Pay,Completed
+TXN-100672,2023-11-29,November,Q4,CUST-2531,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Mobile App,UK,4,177.41,15,106.45,603.19,299.96,303.23,Apple Pay,Returned
+TXN-100673,2023-04-09,April,Q2,CUST-1926,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,Southwest,2,54.64,0,0.0,109.28,40.64,68.64,Credit Card,Completed
+TXN-100674,2023-12-10,December,Q4,CUST-1830,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Mobile App,Northeast,2,106.06,15,31.82,180.3,66.84,113.46,Debit Card,Returned
+TXN-100675,2023-06-16,June,Q2,CUST-4550,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Social Commerce,Southeast,4,189.99,15,113.99,645.97,254.04,391.93,Apple Pay,Returned
+TXN-100676,2023-07-14,July,Q3,CUST-3949,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,Southwest,1,89.62,10,8.96,80.66,38.13,42.53,Buy Now Pay Later,Cancelled
+TXN-100677,2023-02-25,February,Q1,CUST-2849,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Social Commerce,UK,1,77.67,10,7.77,69.9,28.12,41.78,Credit Card,Completed
+TXN-100678,2023-01-21,January,Q1,CUST-3284,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Social Commerce,West,4,194.87,15,116.92,662.56,315.16,347.4,Credit Card,Completed
+TXN-100679,2023-06-05,June,Q2,CUST-4168,SKU-1018,Sneakers,Apparel,FitForm,Marketplace,Southwest,4,103.56,5,20.71,393.53,178.32,215.21,Debit Card,Returned
+TXN-100680,2023-09-22,September,Q3,CUST-4701,SKU-1018,Sneakers,Apparel,FitForm,Mobile App,Southwest,1,103.56,15,15.53,88.03,44.58,43.45,Apple Pay,Completed
+TXN-100681,2023-10-27,October,Q4,CUST-4841,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Mobile App,Southwest,1,99.34,0,0.0,99.34,37.35,61.99,Apple Pay,Completed
+TXN-100682,2023-08-21,August,Q3,CUST-3417,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Mobile App,Southwest,1,174.23,0,0.0,174.23,73.95,100.28,Credit Card,Completed
+TXN-100683,2023-03-05,March,Q1,CUST-1373,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,Canada,2,24.9,15,7.47,42.33,43.04,-0.71,Apple Pay,Completed
+TXN-100684,2023-09-19,September,Q3,CUST-3507,SKU-1005,Webcam,Electronics,TechPro,Mobile App,Southwest,4,26.46,15,15.88,89.96,77.68,12.28,Buy Now Pay Later,Returned
+TXN-100685,2023-10-17,October,Q4,CUST-4568,SKU-1002,Smart Watch,Electronics,SoundWave,Mobile App,Southeast,2,65.43,0,0.0,130.86,77.38,53.48,Debit Card,Completed
+TXN-100686,2023-06-07,June,Q2,CUST-2267,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,1,89.62,5,4.48,85.14,38.13,47.01,Debit Card,Completed
+TXN-100687,2023-11-15,November,Q4,CUST-4135,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,Northeast,2,81.6,0,0.0,163.2,58.64,104.56,Apple Pay,Returned
+TXN-100688,2023-09-10,September,Q3,CUST-1974,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Mobile App,West,1,230.34,10,23.03,207.31,74.68,132.63,Apple Pay,Returned
+TXN-100689,2023-11-04,November,Q4,CUST-3458,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Website,Southeast,4,106.06,0,0.0,424.24,133.68,290.56,Buy Now Pay Later,Completed
+TXN-100690,2023-04-05,April,Q2,CUST-1607,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Website,Canada,2,189.99,0,0.0,379.98,127.02,252.96,PayPal,Completed
+TXN-100691,2023-10-23,October,Q4,CUST-4432,SKU-1009,Phone Stand,Electronics,PixelEdge,Marketplace,Midwest,1,133.99,15,20.1,113.89,73.49,40.4,Credit Card,Completed
+TXN-100692,2023-03-24,March,Q1,CUST-3752,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Marketplace,West,4,113.18,0,0.0,452.72,156.04,296.68,Buy Now Pay Later,Cancelled
+TXN-100693,2023-10-24,October,Q4,CUST-2475,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Website,Northeast,2,98.58,5,9.86,187.3,105.14,82.16,PayPal,Completed
+TXN-100694,2023-02-04,February,Q1,CUST-4106,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Social Commerce,UK,4,53.95,20,43.16,172.64,140.8,31.84,Buy Now Pay Later,Completed
+TXN-100695,2023-03-04,March,Q1,CUST-3845,SKU-1018,Sneakers,Apparel,FitForm,Marketplace,Midwest,4,103.56,0,0.0,414.24,178.32,235.92,Buy Now Pay Later,Returned
+TXN-100696,2023-04-18,April,Q2,CUST-3506,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Website,Northeast,2,194.87,15,58.46,331.28,157.58,173.7,Buy Now Pay Later,Cancelled
+TXN-100697,2023-12-19,December,Q4,CUST-3477,SKU-1005,Webcam,Electronics,TechPro,Marketplace,Southwest,4,26.46,15,15.88,89.96,77.68,12.28,Buy Now Pay Later,Completed
+TXN-100698,2023-11-11,November,Q4,CUST-3304,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,West,3,205.4,0,0.0,616.2,212.7,403.5,Apple Pay,Returned
+TXN-100699,2023-05-29,May,Q2,CUST-1792,SKU-1011,Graphic Tee,Apparel,UrbanThread,Website,Northeast,2,67.56,15,20.27,114.85,86.42,28.43,Credit Card,Returned
+TXN-100700,2023-04-17,April,Q2,CUST-4275,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Southwest,1,18.7,15,2.81,15.89,6.86,9.03,Credit Card,Completed
+TXN-100701,2023-11-24,November,Q4,CUST-1824,SKU-1022,Blender,Home & Kitchen,CozyCraft,Marketplace,Midwest,2,26.7,0,0.0,53.4,24.54,28.86,Credit Card,Completed
+TXN-100702,2023-01-04,January,Q1,CUST-1466,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Marketplace,Midwest,3,160.35,20,96.21,384.84,217.41,167.43,Apple Pay,Cancelled
+TXN-100703,2023-03-31,March,Q1,CUST-1794,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Marketplace,UK,1,189.99,20,38.0,151.99,63.51,88.48,PayPal,Returned
+TXN-100704,2023-03-11,March,Q1,CUST-2972,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,Canada,1,54.64,15,8.2,46.44,20.32,26.12,Apple Pay,Cancelled
+TXN-100705,2023-07-31,July,Q3,CUST-4800,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Website,UK,4,98.51,20,78.81,315.23,220.68,94.55,Buy Now Pay Later,Completed
+TXN-100706,2023-10-02,October,Q4,CUST-1076,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Mobile App,West,3,36.35,10,10.9,98.15,90.06,8.09,PayPal,Completed
+TXN-100707,2023-01-16,January,Q1,CUST-2389,SKU-1004,USB-C Hub,Electronics,PixelEdge,Social Commerce,Canada,2,18.39,0,0.0,36.78,16.52,20.26,Buy Now Pay Later,Completed
+TXN-100708,2023-11-01,November,Q4,CUST-1478,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Marketplace,Canada,4,36.35,0,0.0,145.4,120.08,25.32,PayPal,Completed
+TXN-100709,2023-09-12,September,Q3,CUST-4592,SKU-1017,Baseball Cap,Apparel,FitForm,Mobile App,Midwest,4,56.33,0,0.0,225.32,165.8,59.52,Apple Pay,Completed
+TXN-100710,2023-02-27,February,Q1,CUST-2532,SKU-1013,Running Shorts,Apparel,PureWear,Website,UK,3,84.95,0,0.0,254.85,159.21,95.64,Debit Card,Completed
+TXN-100711,2023-09-05,September,Q3,CUST-4706,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Mobile App,Southeast,1,174.23,20,34.85,139.38,73.95,65.43,PayPal,Returned
+TXN-100712,2023-06-17,June,Q2,CUST-1586,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,UK,3,99.34,20,59.6,238.42,112.05,126.37,Buy Now Pay Later,Completed
+TXN-100713,2023-07-18,July,Q3,CUST-3923,SKU-1013,Running Shorts,Apparel,PureWear,Website,Northeast,1,84.95,5,4.25,80.7,53.07,27.63,PayPal,Completed
+TXN-100714,2023-08-28,August,Q3,CUST-4642,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Northeast,1,93.88,0,0.0,93.88,53.11,40.77,Buy Now Pay Later,Completed
+TXN-100715,2023-04-18,April,Q2,CUST-2314,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Mobile App,Southeast,3,53.26,15,23.97,135.81,109.92,25.89,PayPal,Completed
+TXN-100716,2023-08-14,August,Q3,CUST-3748,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Website,Midwest,3,196.28,20,117.77,471.07,215.19,255.88,Debit Card,Completed
+TXN-100717,2023-11-15,November,Q4,CUST-3292,SKU-1017,Baseball Cap,Apparel,FitForm,Website,Southeast,1,56.33,0,0.0,56.33,41.45,14.88,Buy Now Pay Later,Completed
+TXN-100718,2023-03-14,March,Q1,CUST-4863,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Marketplace,West,3,98.58,0,0.0,295.74,157.71,138.03,Debit Card,Completed
+TXN-100719,2023-06-23,June,Q2,CUST-3214,SKU-1004,USB-C Hub,Electronics,PixelEdge,Social Commerce,Northeast,3,18.39,10,5.52,49.65,24.78,24.87,Debit Card,Completed
+TXN-100720,2023-07-16,July,Q3,CUST-1220,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,Southwest,1,54.64,0,0.0,54.64,20.32,34.32,Apple Pay,Completed
+TXN-100721,2023-07-02,July,Q3,CUST-2279,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Marketplace,UK,4,94.76,10,37.9,341.14,315.28,25.86,Debit Card,Cancelled
+TXN-100722,2023-03-09,March,Q1,CUST-1380,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,Northeast,4,26.46,10,10.58,95.26,77.68,17.58,Apple Pay,Completed
+TXN-100723,2023-04-29,April,Q2,CUST-4880,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Mobile App,Southeast,4,93.88,5,18.78,356.74,212.44,144.3,Buy Now Pay Later,Completed
+TXN-100724,2023-12-25,December,Q4,CUST-4757,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Marketplace,UK,4,53.95,0,0.0,215.8,140.8,75.0,PayPal,Returned
+TXN-100725,2023-09-01,September,Q3,CUST-1462,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Marketplace,Southwest,1,230.34,0,0.0,230.34,74.68,155.66,Apple Pay,Completed
+TXN-100726,2023-10-22,October,Q4,CUST-1521,SKU-1018,Sneakers,Apparel,FitForm,Website,Southwest,3,103.56,10,31.07,279.61,133.74,145.87,Credit Card,Completed
+TXN-100727,2023-06-04,June,Q2,CUST-3182,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Social Commerce,Southwest,1,98.58,20,19.72,78.86,52.57,26.29,Buy Now Pay Later,Returned
+TXN-100728,2023-03-23,March,Q1,CUST-4989,SKU-1015,Denim Jacket,Apparel,UrbanThread,Social Commerce,Southwest,2,51.98,10,10.4,93.56,66.08,27.48,Credit Card,Completed
+TXN-100729,2023-08-11,August,Q3,CUST-3323,SKU-1013,Running Shorts,Apparel,PureWear,Marketplace,West,4,84.95,20,67.96,271.84,212.28,59.56,Debit Card,Completed
+TXN-100730,2023-12-31,December,Q4,CUST-3351,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,Northeast,1,197.52,15,29.63,167.89,66.54,101.35,Buy Now Pay Later,Cancelled
+TXN-100731,2023-02-19,February,Q1,CUST-4367,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,Southeast,3,124.77,10,37.43,336.88,208.92,127.96,PayPal,Returned
+TXN-100732,2023-11-02,November,Q4,CUST-4159,SKU-1004,USB-C Hub,Electronics,PixelEdge,Social Commerce,Midwest,1,18.39,15,2.76,15.63,8.26,7.37,Apple Pay,Completed
+TXN-100733,2023-03-13,March,Q1,CUST-4634,SKU-1005,Webcam,Electronics,TechPro,Website,UK,2,26.46,20,10.58,42.34,38.84,3.5,Debit Card,Completed
+TXN-100734,2023-11-12,November,Q4,CUST-3367,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Social Commerce,Southeast,3,174.23,5,26.13,496.56,221.85,274.71,Debit Card,Completed
+TXN-100735,2023-06-26,June,Q2,CUST-1365,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Website,West,3,160.35,5,24.05,457.0,217.41,239.59,Buy Now Pay Later,Returned
+TXN-100736,2023-07-09,July,Q3,CUST-4690,SKU-1008,LED Desk Lamp,Electronics,TechPro,Website,Northeast,3,81.6,0,0.0,244.8,87.96,156.84,Buy Now Pay Later,Completed
+TXN-100737,2023-01-16,January,Q1,CUST-1963,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,Canada,3,124.26,20,74.56,298.22,157.86,140.36,Buy Now Pay Later,Returned
+TXN-100738,2023-07-15,July,Q3,CUST-2663,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Southwest,3,18.7,15,8.41,47.69,20.58,27.11,Buy Now Pay Later,Completed
+TXN-100739,2023-03-13,March,Q1,CUST-1770,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,UK,2,197.52,5,19.75,375.29,133.08,242.21,PayPal,Returned
+TXN-100740,2023-12-10,December,Q4,CUST-1514,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Northeast,3,133.99,20,80.39,321.58,220.47,101.11,Credit Card,Completed
+TXN-100741,2023-08-12,August,Q3,CUST-4993,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Northeast,4,133.99,15,80.39,455.57,293.96,161.61,Debit Card,Returned
+TXN-100742,2023-04-03,April,Q2,CUST-2861,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,West,4,124.77,10,49.91,449.17,278.56,170.61,Apple Pay,Returned
+TXN-100743,2023-08-06,August,Q3,CUST-3476,SKU-1022,Blender,Home & Kitchen,CozyCraft,Website,West,2,26.7,0,0.0,53.4,24.54,28.86,Apple Pay,Completed
+TXN-100744,2023-10-07,October,Q4,CUST-3360,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Marketplace,Northeast,3,94.76,5,14.21,270.07,236.46,33.61,Credit Card,Cancelled
+TXN-100745,2023-10-25,October,Q4,CUST-2972,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,Southeast,3,54.64,0,0.0,163.92,60.96,102.96,Buy Now Pay Later,Completed
+TXN-100746,2023-11-09,November,Q4,CUST-1362,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Mobile App,Southwest,1,124.77,10,12.48,112.29,69.64,42.65,Credit Card,Cancelled
+TXN-100747,2023-01-28,January,Q1,CUST-4701,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,West,3,26.61,10,7.98,71.85,31.92,39.93,Credit Card,Returned
+TXN-100748,2023-06-19,June,Q2,CUST-2724,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Marketplace,UK,4,124.77,10,49.91,449.17,278.56,170.61,PayPal,Completed
+TXN-100749,2023-11-02,November,Q4,CUST-4069,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,Canada,1,35.11,15,5.27,29.84,24.87,4.97,Buy Now Pay Later,Completed
+TXN-100750,2023-03-28,March,Q1,CUST-3346,SKU-1003,Portable Charger,Electronics,TechPro,Website,Canada,4,154.03,10,61.61,554.51,307.16,247.35,PayPal,Cancelled
+TXN-100751,2023-02-12,February,Q1,CUST-1519,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Website,UK,3,53.26,5,7.99,151.79,109.92,41.87,PayPal,Completed
+TXN-100752,2023-05-12,May,Q2,CUST-1058,SKU-1008,LED Desk Lamp,Electronics,TechPro,Website,West,3,81.6,0,0.0,244.8,87.96,156.84,Debit Card,Cancelled
+TXN-100753,2023-08-17,August,Q3,CUST-2514,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Mobile App,Midwest,2,75.69,15,22.71,128.67,71.26,57.41,Debit Card,Returned
+TXN-100754,2023-02-13,February,Q1,CUST-4962,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,West,1,67.56,0,0.0,67.56,43.21,24.35,Debit Card,Returned
+TXN-100755,2023-07-16,July,Q3,CUST-1974,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Canada,4,78.84,20,63.07,252.29,190.72,61.57,Debit Card,Completed
+TXN-100756,2023-11-25,November,Q4,CUST-2082,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Website,Northeast,3,36.35,0,0.0,109.05,90.06,18.99,Debit Card,Returned
+TXN-100757,2023-09-01,September,Q3,CUST-4056,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Mobile App,Southwest,4,218.05,0,0.0,872.2,297.92,574.28,Apple Pay,Returned
+TXN-100758,2023-08-11,August,Q3,CUST-1048,SKU-1016,Yoga Pants,Apparel,UrbanThread,Marketplace,UK,2,205.4,10,41.08,369.72,141.8,227.92,Apple Pay,Returned
+TXN-100759,2023-12-16,December,Q4,CUST-4915,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Northeast,3,93.88,10,28.16,253.48,159.33,94.15,Buy Now Pay Later,Completed
+TXN-100760,2023-05-19,May,Q2,CUST-2093,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Website,Midwest,3,34.48,0,0.0,103.44,57.72,45.72,Buy Now Pay Later,Returned
+TXN-100761,2023-12-11,December,Q4,CUST-3411,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Mobile App,West,2,124.77,15,37.43,212.11,139.28,72.83,PayPal,Completed
+TXN-100762,2023-01-05,January,Q1,CUST-4406,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Website,Northeast,1,24.9,15,3.73,21.17,21.52,-0.35,Apple Pay,Completed
+TXN-100763,2023-08-17,August,Q3,CUST-2439,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Mobile App,Canada,1,194.87,15,29.23,165.64,78.79,86.85,PayPal,Completed
+TXN-100764,2023-11-14,November,Q4,CUST-1376,SKU-1012,Hoodie,Apparel,UrbanThread,Website,West,1,16.95,0,0.0,16.95,9.76,7.19,Debit Card,Cancelled
+TXN-100765,2023-03-03,March,Q1,CUST-1353,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Mobile App,Southwest,1,18.7,15,2.81,15.89,6.86,9.03,Buy Now Pay Later,Completed
+TXN-100766,2023-05-31,May,Q2,CUST-2912,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,Canada,2,124.26,0,0.0,248.52,105.24,143.28,Apple Pay,Completed
+TXN-100767,2023-12-08,December,Q4,CUST-4153,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,Midwest,4,89.62,15,53.77,304.71,152.52,152.19,Debit Card,Completed
+TXN-100768,2023-07-18,July,Q3,CUST-2362,SKU-1017,Baseball Cap,Apparel,FitForm,Website,Midwest,1,56.33,5,2.82,53.51,41.45,12.06,PayPal,Completed
+TXN-100769,2023-04-13,April,Q2,CUST-3499,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Social Commerce,Southeast,1,174.23,5,8.71,165.52,73.95,91.57,Apple Pay,Completed
+TXN-100770,2023-11-11,November,Q4,CUST-3635,SKU-1009,Phone Stand,Electronics,PixelEdge,Website,Southwest,4,133.99,0,0.0,535.96,293.96,242.0,PayPal,Completed
+TXN-100771,2023-10-20,October,Q4,CUST-3980,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,UK,1,65.43,0,0.0,65.43,38.69,26.74,Apple Pay,Completed
+TXN-100772,2023-11-24,November,Q4,CUST-1003,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Website,Canada,2,230.34,15,69.1,391.58,149.36,242.22,Apple Pay,Completed
+TXN-100773,2023-10-22,October,Q4,CUST-1015,SKU-1009,Phone Stand,Electronics,PixelEdge,Social Commerce,Southwest,3,133.99,5,20.1,381.87,220.47,161.4,Apple Pay,Returned
+TXN-100774,2023-04-26,April,Q2,CUST-1013,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Social Commerce,Canada,1,99.34,10,9.93,89.41,37.35,52.06,Apple Pay,Completed
+TXN-100775,2023-12-16,December,Q4,CUST-2240,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,Northeast,3,36.35,0,0.0,109.05,90.06,18.99,Credit Card,Completed
+TXN-100776,2023-08-24,August,Q3,CUST-4114,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,Canada,3,196.28,0,0.0,588.84,215.19,373.65,Debit Card,Completed
+TXN-100777,2023-12-05,December,Q4,CUST-1782,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Marketplace,Canada,1,98.58,5,4.93,93.65,52.57,41.08,Apple Pay,Completed
+TXN-100778,2023-02-13,February,Q1,CUST-4625,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Canada,3,18.7,5,2.81,53.29,20.58,32.71,Debit Card,Completed
+TXN-100779,2023-10-31,October,Q4,CUST-1976,SKU-1002,Smart Watch,Electronics,SoundWave,Social Commerce,Southwest,2,65.43,0,0.0,130.86,77.38,53.48,Credit Card,Cancelled
+TXN-100780,2023-10-01,October,Q4,CUST-4952,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Northeast,3,93.41,5,14.01,266.22,192.15,74.07,Credit Card,Completed
+TXN-100781,2023-01-22,January,Q1,CUST-2660,SKU-1003,Portable Charger,Electronics,TechPro,Website,Southeast,3,154.03,20,92.42,369.67,230.37,139.3,Buy Now Pay Later,Returned
+TXN-100782,2023-10-24,October,Q4,CUST-1954,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Northeast,2,93.88,15,28.16,159.6,106.22,53.38,Debit Card,Returned
+TXN-100783,2023-11-13,November,Q4,CUST-1187,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Mobile App,Canada,1,93.41,5,4.67,88.74,64.05,24.69,Debit Card,Completed
+TXN-100784,2023-02-19,February,Q1,CUST-2868,SKU-1011,Graphic Tee,Apparel,UrbanThread,Mobile App,UK,1,67.56,0,0.0,67.56,43.21,24.35,Buy Now Pay Later,Completed
+TXN-100785,2023-11-01,November,Q4,CUST-4273,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Mobile App,Northeast,1,113.18,5,5.66,107.52,39.01,68.51,Debit Card,Returned
+TXN-100786,2023-03-03,March,Q1,CUST-4997,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Mobile App,Midwest,4,98.51,0,0.0,394.04,220.68,173.36,Debit Card,Completed
+TXN-100787,2023-02-02,February,Q1,CUST-1494,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,Southeast,2,26.61,0,0.0,53.22,21.28,31.94,Apple Pay,Completed
+TXN-100788,2023-03-26,March,Q1,CUST-2796,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Mobile App,West,3,144.95,10,43.48,391.37,231.57,159.8,Credit Card,Completed
+TXN-100789,2023-03-22,March,Q1,CUST-1064,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Social Commerce,Northeast,4,113.18,20,90.54,362.18,156.04,206.14,Credit Card,Completed
+TXN-100790,2023-11-30,November,Q4,CUST-3431,SKU-1011,Graphic Tee,Apparel,UrbanThread,Marketplace,Southwest,1,67.56,15,10.13,57.43,43.21,14.22,Apple Pay,Completed
+TXN-100791,2023-05-19,May,Q2,CUST-3142,SKU-1013,Running Shorts,Apparel,PureWear,Social Commerce,Southwest,2,84.95,15,25.48,144.42,106.14,38.28,Debit Card,Completed
+TXN-100792,2023-04-03,April,Q2,CUST-3937,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Social Commerce,West,1,189.99,10,19.0,170.99,63.51,107.48,Credit Card,Completed
+TXN-100793,2023-10-13,October,Q4,CUST-1965,SKU-1022,Blender,Home & Kitchen,CozyCraft,Mobile App,Northeast,4,26.7,0,0.0,106.8,49.08,57.72,Buy Now Pay Later,Completed
+TXN-100794,2023-10-04,October,Q4,CUST-3078,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Mobile App,Southwest,3,189.99,20,113.99,455.98,190.53,265.45,Debit Card,Completed
+TXN-100795,2023-03-18,March,Q1,CUST-3806,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,Southwest,2,154.03,0,0.0,308.06,153.58,154.48,Debit Card,Completed
+TXN-100796,2023-11-27,November,Q4,CUST-2491,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Marketplace,Southeast,1,197.52,0,0.0,197.52,66.54,130.98,Apple Pay,Completed
+TXN-100797,2023-02-23,February,Q1,CUST-4032,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Website,West,4,98.51,0,0.0,394.04,220.68,173.36,Debit Card,Completed
+TXN-100798,2023-03-01,March,Q1,CUST-1290,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Mobile App,Canada,4,53.26,10,21.3,191.74,146.56,45.18,Apple Pay,Cancelled
+TXN-100799,2023-04-12,April,Q2,CUST-4060,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Marketplace,Southeast,3,26.61,5,3.99,75.84,31.92,43.92,Credit Card,Completed
+TXN-100800,2023-07-31,July,Q3,CUST-4563,SKU-1014,Wool Sweater,Apparel,StyleCo,Mobile App,Southwest,1,143.8,0,0.0,143.8,62.15,81.65,Debit Card,Completed
+TXN-100801,2023-08-12,August,Q3,CUST-1593,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,West,4,54.64,0,0.0,218.56,81.28,137.28,Apple Pay,Completed
+TXN-100802,2023-08-23,August,Q3,CUST-3948,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Mobile App,Canada,3,118.07,0,0.0,354.21,119.1,235.11,PayPal,Completed
+TXN-100803,2023-01-17,January,Q1,CUST-3835,SKU-1012,Hoodie,Apparel,UrbanThread,Website,Midwest,3,16.95,0,0.0,50.85,29.28,21.57,Debit Card,Completed
+TXN-100804,2023-03-29,March,Q1,CUST-4114,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Marketplace,Southeast,4,124.77,5,24.95,474.13,278.56,195.57,PayPal,Cancelled
+TXN-100805,2023-10-11,October,Q4,CUST-4502,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,Northeast,2,35.11,10,7.02,63.2,49.74,13.46,Apple Pay,Cancelled
+TXN-100806,2023-08-31,August,Q3,CUST-4428,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Social Commerce,Midwest,2,230.34,10,46.07,414.61,149.36,265.25,Credit Card,Returned
+TXN-100807,2023-06-17,June,Q2,CUST-2778,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Mobile App,West,2,75.69,0,0.0,151.38,71.26,80.12,Debit Card,Cancelled
+TXN-100808,2023-01-21,January,Q1,CUST-2927,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Website,Southwest,4,76.53,0,0.0,306.12,211.84,94.28,Buy Now Pay Later,Returned
+TXN-100809,2023-09-11,September,Q3,CUST-1985,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,West,1,54.64,5,2.73,51.91,20.32,31.59,Credit Card,Returned
+TXN-100810,2023-06-01,June,Q2,CUST-1979,SKU-1013,Running Shorts,Apparel,PureWear,Website,Northeast,2,84.95,0,0.0,169.9,106.14,63.76,Apple Pay,Completed
+TXN-100811,2023-10-20,October,Q4,CUST-4060,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Website,Southwest,4,35.11,20,28.09,112.35,99.48,12.87,Apple Pay,Completed
+TXN-100812,2023-07-09,July,Q3,CUST-3567,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Social Commerce,Canada,4,94.76,0,0.0,379.04,315.28,63.76,Credit Card,Completed
+TXN-100813,2023-01-17,January,Q1,CUST-2214,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Social Commerce,UK,3,118.07,10,35.42,318.79,119.1,199.69,PayPal,Cancelled
+TXN-100814,2023-12-17,December,Q4,CUST-1331,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,Canada,2,196.28,20,78.51,314.05,143.46,170.59,Credit Card,Cancelled
+TXN-100815,2023-02-26,February,Q1,CUST-2568,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Marketplace,Southwest,3,93.88,0,0.0,281.64,159.33,122.31,Buy Now Pay Later,Completed
+TXN-100816,2023-11-28,November,Q4,CUST-3288,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Website,West,3,53.95,0,0.0,161.85,105.6,56.25,Debit Card,Completed
+TXN-100817,2023-02-28,February,Q1,CUST-3658,SKU-1021,Air Fryer,Home & Kitchen,CozyCraft,Social Commerce,Canada,2,98.51,10,19.7,177.32,110.34,66.98,Buy Now Pay Later,Completed
+TXN-100818,2023-06-30,June,Q2,CUST-4677,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Marketplace,West,2,78.84,0,0.0,157.68,95.36,62.32,Apple Pay,Completed
+TXN-100819,2023-06-26,June,Q2,CUST-2853,SKU-1003,Portable Charger,Electronics,TechPro,Social Commerce,West,1,154.03,0,0.0,154.03,76.79,77.24,Buy Now Pay Later,Completed
+TXN-100820,2023-11-14,November,Q4,CUST-2507,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,Southeast,3,54.64,5,8.2,155.72,60.96,94.76,Apple Pay,Completed
+TXN-100821,2023-05-28,May,Q2,CUST-4925,SKU-1005,Webcam,Electronics,TechPro,Website,Northeast,4,26.46,0,0.0,105.84,77.68,28.16,Debit Card,Completed
+TXN-100822,2023-03-19,March,Q1,CUST-4583,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Mobile App,West,2,124.26,5,12.43,236.09,105.24,130.85,Credit Card,Completed
+TXN-100823,2023-06-27,June,Q2,CUST-2720,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,Canada,2,106.06,5,10.61,201.51,66.84,134.67,Credit Card,Completed
+TXN-100824,2023-04-29,April,Q2,CUST-4419,SKU-1012,Hoodie,Apparel,UrbanThread,Marketplace,Southwest,1,16.95,0,0.0,16.95,9.76,7.19,Buy Now Pay Later,Completed
+TXN-100825,2023-10-31,October,Q4,CUST-3727,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Southwest,3,93.41,5,14.01,266.22,192.15,74.07,PayPal,Cancelled
+TXN-100826,2023-05-14,May,Q2,CUST-1928,SKU-1008,LED Desk Lamp,Electronics,TechPro,Social Commerce,Midwest,3,81.6,0,0.0,244.8,87.96,156.84,PayPal,Completed
+TXN-100827,2023-08-22,August,Q3,CUST-4916,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,West,3,133.99,0,0.0,401.97,220.47,181.5,Debit Card,Cancelled
+TXN-100828,2023-12-29,December,Q4,CUST-3837,SKU-1018,Sneakers,Apparel,FitForm,Mobile App,Southeast,2,103.56,0,0.0,207.12,89.16,117.96,Debit Card,Completed
+TXN-100829,2023-03-06,March,Q1,CUST-2805,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Midwest,3,65.43,10,19.63,176.66,116.07,60.59,Debit Card,Completed
+TXN-100830,2023-06-12,June,Q2,CUST-2408,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,Midwest,1,98.58,15,14.79,83.79,52.57,31.22,Apple Pay,Cancelled
+TXN-100831,2023-01-13,January,Q1,CUST-2657,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Social Commerce,UK,3,35.11,0,0.0,105.33,74.61,30.72,Debit Card,Returned
+TXN-100832,2023-10-07,October,Q4,CUST-4996,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Marketplace,Canada,2,24.9,0,0.0,49.8,43.04,6.76,PayPal,Returned
+TXN-100833,2023-10-17,October,Q4,CUST-3984,SKU-1018,Sneakers,Apparel,FitForm,Social Commerce,Midwest,2,103.56,20,41.42,165.7,89.16,76.54,Credit Card,Returned
+TXN-100834,2023-10-10,October,Q4,CUST-1478,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Northeast,2,65.43,15,19.63,111.23,77.38,33.85,Apple Pay,Cancelled
+TXN-100835,2023-02-17,February,Q1,CUST-2336,SKU-1014,Wool Sweater,Apparel,StyleCo,Website,West,4,143.8,0,0.0,575.2,248.6,326.6,Debit Card,Cancelled
+TXN-100836,2023-05-23,May,Q2,CUST-1801,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Website,Northeast,2,194.87,20,77.95,311.79,157.58,154.21,Buy Now Pay Later,Returned
+TXN-100837,2023-07-21,July,Q3,CUST-1796,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Social Commerce,Midwest,1,93.88,10,9.39,84.49,53.11,31.38,Buy Now Pay Later,Cancelled
+TXN-100838,2023-07-04,July,Q3,CUST-2628,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Mobile App,Canada,1,177.41,15,26.61,150.8,74.99,75.81,Apple Pay,Completed
+TXN-100839,2023-05-26,May,Q2,CUST-2412,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Marketplace,Midwest,3,118.07,0,0.0,354.21,119.1,235.11,Apple Pay,Cancelled
+TXN-100840,2023-08-16,August,Q3,CUST-4037,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,UK,2,26.46,15,7.94,44.98,38.84,6.14,Apple Pay,Completed
+TXN-100841,2023-08-01,August,Q3,CUST-1571,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Website,Southeast,4,35.11,15,21.07,119.37,99.48,19.89,Debit Card,Completed
+TXN-100842,2023-10-30,October,Q4,CUST-4097,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,Northeast,3,54.64,0,0.0,163.92,60.96,102.96,Credit Card,Returned
+TXN-100843,2023-03-31,March,Q1,CUST-3276,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Social Commerce,Canada,3,18.7,5,2.81,53.29,20.58,32.71,Buy Now Pay Later,Completed
+TXN-100844,2023-07-15,July,Q3,CUST-2185,SKU-1012,Hoodie,Apparel,UrbanThread,Social Commerce,Northeast,2,16.95,20,6.78,27.12,19.52,7.6,PayPal,Cancelled
+TXN-100845,2023-08-26,August,Q3,CUST-1919,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Website,UK,4,160.35,10,64.14,577.26,289.88,287.38,Credit Card,Completed
+TXN-100846,2023-11-22,November,Q4,CUST-2935,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,Canada,3,205.4,15,92.43,523.77,212.7,311.07,PayPal,Returned
+TXN-100847,2023-11-27,November,Q4,CUST-2002,SKU-1011,Graphic Tee,Apparel,UrbanThread,Website,Northeast,4,67.56,15,40.54,229.7,172.84,56.86,PayPal,Returned
+TXN-100848,2023-09-04,September,Q3,CUST-3316,SKU-1004,USB-C Hub,Electronics,PixelEdge,Social Commerce,UK,3,18.39,10,5.52,49.65,24.78,24.87,PayPal,Returned
+TXN-100849,2023-09-20,September,Q3,CUST-4002,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Website,UK,1,144.95,0,0.0,144.95,77.19,67.76,PayPal,Completed
+TXN-100850,2023-06-13,June,Q2,CUST-2888,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Mobile App,Midwest,1,26.61,0,0.0,26.61,10.64,15.97,Debit Card,Completed
+TXN-100851,2023-11-22,November,Q4,CUST-4735,SKU-1017,Baseball Cap,Apparel,FitForm,Marketplace,Northeast,3,56.33,5,8.45,160.54,124.35,36.19,PayPal,Completed
+TXN-100852,2023-04-10,April,Q2,CUST-4139,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Mobile App,UK,1,194.87,10,19.49,175.38,78.79,96.59,Credit Card,Cancelled
+TXN-100853,2023-06-15,June,Q2,CUST-4573,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Marketplace,UK,2,78.84,10,15.77,141.91,95.36,46.55,PayPal,Completed
+TXN-100854,2023-10-01,October,Q4,CUST-3375,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Marketplace,UK,3,93.88,0,0.0,281.64,159.33,122.31,Debit Card,Completed
+TXN-100855,2023-09-06,September,Q3,CUST-2687,SKU-1008,LED Desk Lamp,Electronics,TechPro,Marketplace,Southeast,3,81.6,0,0.0,244.8,87.96,156.84,Credit Card,Completed
+TXN-100856,2023-04-07,April,Q2,CUST-4256,SKU-1009,Phone Stand,Electronics,PixelEdge,Website,Southwest,2,133.99,20,53.6,214.38,146.98,67.4,Apple Pay,Completed
+TXN-100857,2023-09-03,September,Q3,CUST-2426,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Marketplace,Canada,2,124.26,0,0.0,248.52,105.24,143.28,PayPal,Completed
+TXN-100858,2023-12-30,December,Q4,CUST-2247,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Website,Canada,3,174.23,0,0.0,522.69,221.85,300.84,Credit Card,Completed
+TXN-100859,2023-04-27,April,Q2,CUST-2259,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,Southeast,2,81.6,15,24.48,138.72,58.64,80.08,Debit Card,Completed
+TXN-100860,2023-01-10,January,Q1,CUST-4173,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Social Commerce,UK,1,34.48,0,0.0,34.48,19.24,15.24,Apple Pay,Completed
+TXN-100861,2023-12-04,December,Q4,CUST-3103,SKU-1012,Hoodie,Apparel,UrbanThread,Website,Southwest,1,16.95,0,0.0,16.95,9.76,7.19,Credit Card,Completed
+TXN-100862,2023-12-08,December,Q4,CUST-1042,SKU-1002,Smart Watch,Electronics,SoundWave,Website,UK,1,65.43,0,0.0,65.43,38.69,26.74,Credit Card,Cancelled
+TXN-100863,2023-12-10,December,Q4,CUST-2439,SKU-1013,Running Shorts,Apparel,PureWear,Website,Northeast,2,84.95,0,0.0,169.9,106.14,63.76,Debit Card,Completed
+TXN-100864,2023-03-24,March,Q1,CUST-4502,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Mobile App,West,3,26.61,0,0.0,79.83,31.92,47.91,Buy Now Pay Later,Completed
+TXN-100865,2023-04-22,April,Q2,CUST-3931,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Mobile App,Midwest,1,113.18,10,11.32,101.86,39.01,62.85,Debit Card,Cancelled
+TXN-100866,2023-09-16,September,Q3,CUST-4486,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Social Commerce,Midwest,1,76.53,0,0.0,76.53,52.96,23.57,Buy Now Pay Later,Completed
+TXN-100867,2023-07-01,July,Q3,CUST-2554,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Social Commerce,Southeast,1,174.23,0,0.0,174.23,73.95,100.28,Buy Now Pay Later,Completed
+TXN-100868,2023-06-10,June,Q2,CUST-1506,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Social Commerce,Northeast,1,106.06,20,21.21,84.85,33.42,51.43,Buy Now Pay Later,Completed
+TXN-100869,2023-05-28,May,Q2,CUST-3282,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Website,Northeast,3,230.34,15,103.65,587.37,224.04,363.33,PayPal,Returned
+TXN-100870,2023-08-22,August,Q3,CUST-3459,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Marketplace,Canada,4,124.26,0,0.0,497.04,210.48,286.56,Apple Pay,Completed
+TXN-100871,2023-08-08,August,Q3,CUST-1773,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Website,UK,4,98.58,0,0.0,394.32,210.28,184.04,Apple Pay,Completed
+TXN-100872,2023-09-09,September,Q3,CUST-3752,SKU-1011,Graphic Tee,Apparel,UrbanThread,Website,Southwest,1,67.56,15,10.13,57.43,43.21,14.22,Apple Pay,Cancelled
+TXN-100873,2023-03-15,March,Q1,CUST-2617,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,Canada,1,197.52,0,0.0,197.52,66.54,130.98,Buy Now Pay Later,Completed
+TXN-100874,2023-07-06,July,Q3,CUST-4994,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Mobile App,Midwest,2,75.69,0,0.0,151.38,71.26,80.12,Debit Card,Cancelled
+TXN-100875,2023-08-06,August,Q3,CUST-3970,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Social Commerce,Midwest,1,218.05,0,0.0,218.05,74.48,143.57,Buy Now Pay Later,Cancelled
+TXN-100876,2023-09-01,September,Q3,CUST-3730,SKU-1017,Baseball Cap,Apparel,FitForm,Social Commerce,Southwest,4,56.33,0,0.0,225.32,165.8,59.52,Buy Now Pay Later,Completed
+TXN-100877,2023-03-04,March,Q1,CUST-2026,SKU-1009,Phone Stand,Electronics,PixelEdge,Social Commerce,Southwest,4,133.99,0,0.0,535.96,293.96,242.0,Debit Card,Completed
+TXN-100878,2023-01-28,January,Q1,CUST-4400,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Website,Southwest,1,53.26,15,7.99,45.27,36.64,8.63,Credit Card,Completed
+TXN-100879,2023-06-05,June,Q2,CUST-3547,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Website,UK,3,118.07,0,0.0,354.21,119.1,235.11,Credit Card,Cancelled
+TXN-100880,2023-08-27,August,Q3,CUST-1827,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,Canada,4,89.62,20,71.7,286.78,152.52,134.26,Apple Pay,Returned
+TXN-100881,2023-06-25,June,Q2,CUST-4315,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Website,UK,3,177.41,10,53.22,479.01,224.97,254.04,Credit Card,Returned
+TXN-100882,2023-06-11,June,Q2,CUST-4493,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,Southwest,4,124.26,5,24.85,472.19,210.48,261.71,Apple Pay,Completed
+TXN-100883,2023-12-04,December,Q4,CUST-4524,SKU-1002,Smart Watch,Electronics,SoundWave,Marketplace,Canada,2,65.43,10,13.09,117.77,77.38,40.39,Debit Card,Returned
+TXN-100884,2023-07-19,July,Q3,CUST-2996,SKU-1027,Storage Bins,Home & Kitchen,HomeEase,Website,West,2,34.48,0,0.0,68.96,38.48,30.48,Apple Pay,Cancelled
+TXN-100885,2023-10-15,October,Q4,CUST-4499,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Mobile App,West,4,93.88,5,18.78,356.74,212.44,144.3,Credit Card,Returned
+TXN-100886,2023-07-13,July,Q3,CUST-3526,SKU-1016,Yoga Pants,Apparel,UrbanThread,Marketplace,UK,4,205.4,10,82.16,739.44,283.6,455.84,PayPal,Completed
+TXN-100887,2023-01-24,January,Q1,CUST-1525,SKU-1003,Portable Charger,Electronics,TechPro,Marketplace,Midwest,1,154.03,10,15.4,138.63,76.79,61.84,Buy Now Pay Later,Completed
+TXN-100888,2023-02-19,February,Q1,CUST-2753,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Marketplace,Midwest,3,78.84,5,11.83,224.69,143.04,81.65,Apple Pay,Completed
+TXN-100889,2023-05-01,May,Q2,CUST-3654,SKU-1003,Portable Charger,Electronics,TechPro,Marketplace,West,2,154.03,0,0.0,308.06,153.58,154.48,Credit Card,Completed
+TXN-100890,2023-03-28,March,Q1,CUST-1080,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Marketplace,Northeast,1,160.35,0,0.0,160.35,72.47,87.88,Apple Pay,Returned
+TXN-100891,2023-01-11,January,Q1,CUST-3850,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,West,4,36.35,0,0.0,145.4,120.08,25.32,Credit Card,Completed
+TXN-100892,2023-10-21,October,Q4,CUST-1400,SKU-1024,Cutting Board,Home & Kitchen,HomeEase,Social Commerce,Northeast,4,118.07,0,0.0,472.28,158.8,313.48,Debit Card,Completed
+TXN-100893,2023-11-11,November,Q4,CUST-2226,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Marketplace,Southwest,3,230.34,0,0.0,691.02,224.04,466.98,Debit Card,Returned
+TXN-100894,2023-10-02,October,Q4,CUST-1876,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Marketplace,Midwest,1,18.7,20,3.74,14.96,6.86,8.1,Credit Card,Completed
+TXN-100895,2023-04-26,April,Q2,CUST-3558,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Website,Canada,4,36.35,20,29.08,116.32,120.08,-3.76,Buy Now Pay Later,Completed
+TXN-100896,2023-02-04,February,Q1,CUST-3320,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Social Commerce,Southwest,3,26.61,0,0.0,79.83,31.92,47.91,Debit Card,Completed
+TXN-100897,2023-06-03,June,Q2,CUST-2773,SKU-1004,USB-C Hub,Electronics,PixelEdge,Marketplace,Southeast,3,18.39,10,5.52,49.65,24.78,24.87,Apple Pay,Returned
+TXN-100898,2023-10-08,October,Q4,CUST-1739,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,Canada,4,205.4,15,123.24,698.36,283.6,414.76,Buy Now Pay Later,Completed
+TXN-100899,2023-12-05,December,Q4,CUST-4940,SKU-1036,Body Lotion,Beauty & Personal Care,NatureSoft,Social Commerce,Midwest,4,36.35,0,0.0,145.4,120.08,25.32,Buy Now Pay Later,Cancelled
+TXN-100900,2023-11-17,November,Q4,CUST-1245,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Mobile App,Midwest,4,89.62,10,35.85,322.63,152.52,170.11,Apple Pay,Completed
+TXN-100901,2023-12-17,December,Q4,CUST-4135,SKU-1015,Denim Jacket,Apparel,UrbanThread,Marketplace,UK,2,51.98,15,15.59,88.37,66.08,22.29,Apple Pay,Returned
+TXN-100902,2023-04-15,April,Q2,CUST-4465,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Social Commerce,Midwest,1,24.9,15,3.73,21.17,21.52,-0.35,PayPal,Completed
+TXN-100903,2023-05-03,May,Q2,CUST-1465,SKU-1016,Yoga Pants,Apparel,UrbanThread,Mobile App,Southeast,2,205.4,5,20.54,390.26,141.8,248.46,Credit Card,Completed
+TXN-100904,2023-10-14,October,Q4,CUST-2786,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Social Commerce,Canada,4,160.35,5,32.07,609.33,289.88,319.45,Credit Card,Completed
+TXN-100905,2023-01-15,January,Q1,CUST-2058,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Marketplace,Canada,3,35.11,0,0.0,105.33,74.61,30.72,Buy Now Pay Later,Completed
+TXN-100906,2023-09-06,September,Q3,CUST-4204,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,Northeast,1,93.41,15,14.01,79.4,64.05,15.35,Credit Card,Completed
+TXN-100907,2023-02-02,February,Q1,CUST-4688,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Social Commerce,Midwest,3,77.67,20,46.6,186.41,84.36,102.05,Credit Card,Returned
+TXN-100908,2023-02-27,February,Q1,CUST-3338,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Website,West,2,99.34,0,0.0,198.68,74.7,123.98,Buy Now Pay Later,Cancelled
+TXN-100909,2023-05-02,May,Q2,CUST-3456,SKU-1016,Yoga Pants,Apparel,UrbanThread,Website,UK,4,205.4,0,0.0,821.6,283.6,538.0,PayPal,Completed
+TXN-100910,2023-05-01,May,Q2,CUST-4831,SKU-1037,Perfume Roller,Beauty & Personal Care,LuxeGlow,Social Commerce,Southeast,4,26.61,20,21.29,85.15,42.56,42.59,Debit Card,Completed
+TXN-100911,2023-08-14,August,Q3,CUST-2672,SKU-1011,Graphic Tee,Apparel,UrbanThread,Marketplace,UK,2,67.56,0,0.0,135.12,86.42,48.7,Buy Now Pay Later,Completed
+TXN-100912,2023-02-27,February,Q1,CUST-2296,SKU-1031,SPF Moisturizer,Beauty & Personal Care,GlowLab,Social Commerce,Southwest,3,230.34,15,103.65,587.37,224.04,363.33,Debit Card,Completed
+TXN-100913,2023-07-08,July,Q3,CUST-4364,SKU-1009,Phone Stand,Electronics,PixelEdge,Marketplace,Northeast,3,133.99,5,20.1,381.87,220.47,161.4,Buy Now Pay Later,Completed
+TXN-100914,2023-12-10,December,Q4,CUST-1981,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Marketplace,West,1,75.69,15,11.35,64.34,35.63,28.71,Apple Pay,Completed
+TXN-100915,2023-12-17,December,Q4,CUST-1499,SKU-1040,Resistance Bands,Sports & Outdoors,SwiftSport,Mobile App,UK,3,18.7,20,11.22,44.88,20.58,24.3,Apple Pay,Returned
+TXN-100916,2023-06-04,June,Q2,CUST-1369,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Mobile App,Midwest,4,76.53,0,0.0,306.12,211.84,94.28,Debit Card,Completed
+TXN-100917,2023-11-26,November,Q4,CUST-2664,SKU-1028,Throw Pillow,Home & Kitchen,HomeEase,Website,Midwest,3,174.23,20,104.54,418.15,221.85,196.3,Credit Card,Returned
+TXN-100918,2023-06-20,June,Q2,CUST-3938,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Social Commerce,UK,4,54.64,20,43.71,174.85,81.28,93.57,Credit Card,Completed
+TXN-100919,2023-02-03,February,Q1,CUST-2441,SKU-1044,Foam Roller,Sports & Outdoors,SwiftSport,Social Commerce,West,3,144.95,10,43.48,391.37,231.57,159.8,Buy Now Pay Later,Completed
+TXN-100920,2023-01-27,January,Q1,CUST-3627,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Mobile App,Canada,1,124.77,20,24.95,99.82,69.64,30.18,Apple Pay,Completed
+TXN-100921,2023-11-18,November,Q4,CUST-2251,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Marketplace,West,4,76.53,0,0.0,306.12,211.84,94.28,Credit Card,Completed
+TXN-100922,2023-11-29,November,Q4,CUST-4125,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,UK,2,35.11,10,7.02,63.2,49.74,13.46,Buy Now Pay Later,Returned
+TXN-100923,2023-03-10,March,Q1,CUST-2067,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Mobile App,Canada,4,24.9,5,4.98,94.62,86.08,8.54,Buy Now Pay Later,Completed
+TXN-100924,2023-08-01,August,Q3,CUST-2505,SKU-1018,Sneakers,Apparel,FitForm,Mobile App,Southwest,2,103.56,0,0.0,207.12,89.16,117.96,Apple Pay,Cancelled
+TXN-100925,2023-10-13,October,Q4,CUST-3650,SKU-1014,Wool Sweater,Apparel,StyleCo,Mobile App,Northeast,1,143.8,0,0.0,143.8,62.15,81.65,Apple Pay,Completed
+TXN-100926,2023-07-25,July,Q3,CUST-3531,SKU-1016,Yoga Pants,Apparel,UrbanThread,Social Commerce,West,2,205.4,0,0.0,410.8,141.8,269.0,PayPal,Completed
+TXN-100927,2023-10-18,October,Q4,CUST-1480,SKU-1005,Webcam,Electronics,TechPro,Website,Canada,3,26.46,0,0.0,79.38,58.26,21.12,Buy Now Pay Later,Returned
+TXN-100928,2023-12-11,December,Q4,CUST-3024,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Website,Southeast,4,89.62,20,71.7,286.78,152.52,134.26,Debit Card,Completed
+TXN-100929,2023-09-11,September,Q3,CUST-2564,SKU-1017,Baseball Cap,Apparel,FitForm,Mobile App,Southwest,3,56.33,15,25.35,143.64,124.35,19.29,Debit Card,Cancelled
+TXN-100930,2023-12-13,December,Q4,CUST-1775,SKU-1013,Running Shorts,Apparel,PureWear,Social Commerce,Southeast,3,84.95,15,38.23,216.62,159.21,57.41,Apple Pay,Completed
+TXN-100931,2023-05-01,May,Q2,CUST-3530,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Social Commerce,Southeast,3,53.26,0,0.0,159.78,109.92,49.86,PayPal,Cancelled
+TXN-100932,2023-01-06,January,Q1,CUST-2920,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Mobile App,UK,4,93.88,0,0.0,375.52,212.44,163.08,PayPal,Returned
+TXN-100933,2023-07-16,July,Q3,CUST-3901,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Social Commerce,Canada,2,93.88,15,28.16,159.6,106.22,53.38,Buy Now Pay Later,Completed
+TXN-100934,2023-01-31,January,Q1,CUST-1213,SKU-1004,USB-C Hub,Electronics,PixelEdge,Marketplace,Southeast,1,18.39,10,1.84,16.55,8.26,8.29,Apple Pay,Completed
+TXN-100935,2023-05-10,May,Q2,CUST-3066,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Social Commerce,Midwest,1,77.67,0,0.0,77.67,28.12,49.55,Apple Pay,Completed
+TXN-100936,2023-04-02,April,Q2,CUST-2066,SKU-1008,LED Desk Lamp,Electronics,TechPro,Mobile App,West,1,81.6,10,8.16,73.44,29.32,44.12,Apple Pay,Completed
+TXN-100937,2023-06-12,June,Q2,CUST-3909,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Social Commerce,Southeast,2,124.77,0,0.0,249.54,139.28,110.26,PayPal,Completed
+TXN-100938,2023-09-13,September,Q3,CUST-4570,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Marketplace,Canada,1,24.9,0,0.0,24.9,21.52,3.38,PayPal,Returned
+TXN-100939,2023-05-16,May,Q2,CUST-3117,SKU-1018,Sneakers,Apparel,FitForm,Marketplace,Southwest,3,103.56,10,31.07,279.61,133.74,145.87,Debit Card,Completed
+TXN-100940,2023-03-19,March,Q1,CUST-3276,SKU-1047,Hiking Socks,Sports & Outdoors,TrailBlaze,Social Commerce,Northeast,4,75.69,20,60.55,242.21,142.52,99.69,Debit Card,Completed
+TXN-100941,2023-01-19,January,Q1,CUST-2926,SKU-1003,Portable Charger,Electronics,TechPro,Marketplace,Southeast,2,154.03,0,0.0,308.06,153.58,154.48,Apple Pay,Returned
+TXN-100942,2023-08-15,August,Q3,CUST-2460,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,Southwest,4,124.26,0,0.0,497.04,210.48,286.56,Apple Pay,Completed
+TXN-100943,2023-06-28,June,Q2,CUST-1383,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Mobile App,UK,2,99.34,0,0.0,198.68,74.7,123.98,PayPal,Completed
+TXN-100944,2023-12-06,December,Q4,CUST-3398,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Mobile App,West,3,35.11,10,10.53,94.8,74.61,20.19,Credit Card,Cancelled
+TXN-100945,2023-02-09,February,Q1,CUST-2008,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Social Commerce,Canada,2,89.62,5,8.96,170.28,76.26,94.02,Credit Card,Completed
+TXN-100946,2023-12-15,December,Q4,CUST-1499,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Social Commerce,Midwest,3,53.26,15,23.97,135.81,109.92,25.89,Buy Now Pay Later,Completed
+TXN-100947,2023-02-11,February,Q1,CUST-2885,SKU-1020,Coffee Maker,Home & Kitchen,HomeEase,Social Commerce,Southwest,2,24.9,0,0.0,49.8,43.04,6.76,PayPal,Cancelled
+TXN-100948,2023-01-23,January,Q1,CUST-3687,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,Midwest,1,197.52,0,0.0,197.52,66.54,130.98,Buy Now Pay Later,Completed
+TXN-100949,2023-11-26,November,Q4,CUST-2158,SKU-1013,Running Shorts,Apparel,PureWear,Marketplace,UK,1,84.95,20,16.99,67.96,53.07,14.89,Credit Card,Completed
+TXN-100950,2023-07-24,July,Q3,CUST-2045,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Mobile App,Southeast,4,98.58,0,0.0,394.32,210.28,184.04,Apple Pay,Completed
+TXN-100951,2023-07-18,July,Q3,CUST-4192,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Social Commerce,Midwest,2,53.26,0,0.0,106.52,73.28,33.24,Debit Card,Completed
+TXN-100952,2023-08-10,August,Q3,CUST-4014,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Marketplace,Canada,4,160.35,20,128.28,513.12,289.88,223.24,Buy Now Pay Later,Completed
+TXN-100953,2023-07-08,July,Q3,CUST-3099,SKU-1022,Blender,Home & Kitchen,CozyCraft,Mobile App,Southwest,1,26.7,20,5.34,21.36,12.27,9.09,Apple Pay,Returned
+TXN-100954,2023-11-04,November,Q4,CUST-2732,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Website,UK,3,54.64,10,16.39,147.53,60.96,86.57,Apple Pay,Completed
+TXN-100955,2023-11-19,November,Q4,CUST-2744,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Website,Northeast,2,189.99,5,19.0,360.98,127.02,233.96,Buy Now Pay Later,Completed
+TXN-100956,2023-12-18,December,Q4,CUST-3923,SKU-1029,Scented Candle,Home & Kitchen,HomeEase,Mobile App,Southwest,2,124.77,15,37.43,212.11,139.28,72.83,Buy Now Pay Later,Cancelled
+TXN-100957,2023-08-12,August,Q3,CUST-1324,SKU-1005,Webcam,Electronics,TechPro,Social Commerce,Midwest,3,26.46,5,3.97,75.41,58.26,17.15,Debit Card,Completed
+TXN-100958,2023-05-08,May,Q2,CUST-3142,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Social Commerce,Midwest,3,93.88,20,56.33,225.31,159.33,65.98,Buy Now Pay Later,Completed
+TXN-100959,2023-09-20,September,Q3,CUST-1440,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Social Commerce,Southwest,1,98.58,0,0.0,98.58,52.57,46.01,Credit Card,Returned
+TXN-100960,2023-05-11,May,Q2,CUST-3398,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Website,UK,3,197.52,0,0.0,592.56,199.62,392.94,Buy Now Pay Later,Completed
+TXN-100961,2023-04-04,April,Q2,CUST-4452,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Social Commerce,Northeast,4,124.26,0,0.0,497.04,210.48,286.56,Credit Card,Returned
+TXN-100962,2023-10-28,October,Q4,CUST-3965,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Social Commerce,UK,3,94.76,0,0.0,284.28,236.46,47.82,Apple Pay,Cancelled
+TXN-100963,2023-04-06,April,Q2,CUST-1864,SKU-1016,Yoga Pants,Apparel,UrbanThread,Mobile App,Northeast,3,205.4,20,123.24,492.96,212.7,280.26,Buy Now Pay Later,Completed
+TXN-100964,2023-10-01,October,Q4,CUST-1073,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Southwest,1,93.88,5,4.69,89.19,53.11,36.08,Credit Card,Completed
+TXN-100965,2023-12-21,December,Q4,CUST-2659,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Social Commerce,Midwest,4,35.11,5,7.02,133.42,99.48,33.94,Buy Now Pay Later,Cancelled
+TXN-100966,2023-06-04,June,Q2,CUST-1358,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Mobile App,Southeast,4,53.95,20,43.16,172.64,140.8,31.84,Credit Card,Completed
+TXN-100967,2023-04-07,April,Q2,CUST-4518,SKU-1007,Gaming Mouse,Electronics,PixelEdge,Website,Southeast,1,124.26,15,18.64,105.62,52.62,53.0,Apple Pay,Completed
+TXN-100968,2023-11-17,November,Q4,CUST-4515,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Mobile App,Northeast,2,93.41,5,9.34,177.48,128.1,49.38,PayPal,Returned
+TXN-100969,2023-01-12,January,Q1,CUST-1477,SKU-1009,Phone Stand,Electronics,PixelEdge,Mobile App,Southeast,4,133.99,5,26.8,509.16,293.96,215.2,Apple Pay,Returned
+TXN-100970,2023-08-19,August,Q3,CUST-3397,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,Southeast,1,54.64,20,10.93,43.71,20.32,23.39,PayPal,Cancelled
+TXN-100971,2023-01-05,January,Q1,CUST-1420,SKU-1025,Knife Set,Home & Kitchen,CozyCraft,Social Commerce,Southwest,1,218.05,0,0.0,218.05,74.48,143.57,Apple Pay,Cancelled
+TXN-100972,2023-09-07,September,Q3,CUST-2637,SKU-1038,Hair Ties Pack,Beauty & Personal Care,LuxeGlow,Social Commerce,West,3,77.67,0,0.0,233.01,84.36,148.65,Buy Now Pay Later,Cancelled
+TXN-100973,2023-02-01,February,Q1,CUST-3163,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Southwest,4,93.88,0,0.0,375.52,212.44,163.08,Buy Now Pay Later,Completed
+TXN-100974,2023-11-28,November,Q4,CUST-2708,SKU-1035,Lip Balm Set,Beauty & Personal Care,GlowLab,Social Commerce,Northeast,1,98.58,0,0.0,98.58,52.57,46.01,Apple Pay,Cancelled
+TXN-100975,2023-12-24,December,Q4,CUST-2786,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Website,Southeast,3,93.41,5,14.01,266.22,192.15,74.07,PayPal,Completed
+TXN-100976,2023-04-29,April,Q2,CUST-3079,SKU-1030,Vitamin C Serum,Beauty & Personal Care,NatureSoft,Mobile App,West,3,54.64,5,8.2,155.72,60.96,94.76,PayPal,Cancelled
+TXN-100977,2023-05-31,May,Q2,CUST-3961,SKU-1045,Dumbbell Set,Sports & Outdoors,ActiveGear,Social Commerce,Southwest,4,94.76,0,0.0,379.04,315.28,63.76,PayPal,Returned
+TXN-100978,2023-12-20,December,Q4,CUST-4068,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Website,Canada,2,35.11,0,0.0,70.22,49.74,20.48,Apple Pay,Completed
+TXN-100979,2023-11-07,November,Q4,CUST-3015,SKU-1011,Graphic Tee,Apparel,UrbanThread,Website,UK,2,67.56,0,0.0,135.12,86.42,48.7,Apple Pay,Returned
+TXN-100980,2023-10-13,October,Q4,CUST-1192,SKU-1019,Canvas Tote Bag,Apparel,UrbanThread,Website,Midwest,2,160.35,0,0.0,320.7,144.94,175.76,PayPal,Completed
+TXN-100981,2023-09-15,September,Q3,CUST-1130,SKU-1043,Jump Rope,Sports & Outdoors,ActiveGear,Website,Midwest,2,93.88,0,0.0,187.76,106.22,81.54,Apple Pay,Completed
+TXN-100982,2023-10-15,October,Q4,CUST-1917,SKU-1039,Nail Polish Set,Beauty & Personal Care,PureSkin,Social Commerce,Midwest,2,189.99,0,0.0,379.98,127.02,252.96,PayPal,Completed
+TXN-100983,2023-10-13,October,Q4,CUST-2095,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Mobile App,UK,1,89.62,20,17.92,71.7,38.13,33.57,Buy Now Pay Later,Cancelled
+TXN-100984,2023-01-26,January,Q1,CUST-4795,SKU-1042,Water Bottle,Sports & Outdoors,TrailBlaze,Social Commerce,UK,1,197.52,15,29.63,167.89,66.54,101.35,Apple Pay,Completed
+TXN-100985,2023-10-15,October,Q4,CUST-1171,SKU-1006,Mechanical Keyboard,Electronics,NovaTech,Website,Southeast,1,113.18,20,22.64,90.54,39.01,51.53,Credit Card,Completed
+TXN-100986,2023-05-30,May,Q2,CUST-3900,SKU-1023,Non-stick Pan,Home & Kitchen,ChefLine,Social Commerce,UK,2,53.95,15,16.18,91.72,70.4,21.32,Buy Now Pay Later,Returned
+TXN-100987,2023-11-28,November,Q4,CUST-2489,SKU-1046,Cycling Gloves,Sports & Outdoors,ActiveGear,Marketplace,UK,1,99.34,0,0.0,99.34,37.35,61.99,Debit Card,Completed
+TXN-100988,2023-01-04,January,Q1,CUST-2004,SKU-1012,Hoodie,Apparel,UrbanThread,Social Commerce,Midwest,4,16.95,5,3.39,64.41,39.04,25.37,PayPal,Cancelled
+TXN-100989,2023-07-10,July,Q3,CUST-3929,SKU-1010,Slim Fit Jeans,Apparel,PureWear,Social Commerce,Midwest,1,35.11,0,0.0,35.11,24.87,10.24,Debit Card,Completed
+TXN-100990,2023-04-27,April,Q2,CUST-1565,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Social Commerce,Southwest,4,78.84,20,63.07,252.29,190.72,61.57,Apple Pay,Returned
+TXN-100991,2023-08-15,August,Q3,CUST-1596,SKU-1033,Electric Toothbrush,Beauty & Personal Care,LuxeGlow,Website,Canada,3,194.87,0,0.0,584.61,236.37,348.24,Buy Now Pay Later,Completed
+TXN-100992,2023-07-25,July,Q3,CUST-4163,SKU-1005,Webcam,Electronics,TechPro,Mobile App,Southwest,3,26.46,0,0.0,79.38,58.26,21.12,Credit Card,Returned
+TXN-100993,2023-11-25,November,Q4,CUST-1618,SKU-1048,Gym Bag,Sports & Outdoors,TrailBlaze,Website,Canada,1,78.84,15,11.83,67.01,47.68,19.33,Buy Now Pay Later,Completed
+TXN-100994,2023-12-25,December,Q4,CUST-3267,SKU-1026,Dish Rack,Home & Kitchen,CozyCraft,Marketplace,Canada,4,106.06,15,63.64,360.6,133.68,226.92,PayPal,Completed
+TXN-100995,2023-11-09,November,Q4,CUST-4770,SKU-1000,Wireless Earbuds,Electronics,SoundWave,Mobile App,Canada,3,76.53,10,22.96,206.63,158.88,47.75,Apple Pay,Returned
+TXN-100996,2023-11-16,November,Q4,CUST-4229,SKU-1041,Yoga Mat,Sports & Outdoors,TrailBlaze,Social Commerce,Canada,2,93.41,10,18.68,168.14,128.1,40.04,PayPal,Returned
+TXN-100997,2023-02-13,February,Q1,CUST-1151,SKU-1049,Protein Shaker,Sports & Outdoors,TrailBlaze,Marketplace,Southwest,2,89.62,0,0.0,179.24,76.26,102.98,Debit Card,Cancelled
+TXN-100998,2023-02-17,February,Q1,CUST-3095,SKU-1034,Face Mask Kit,Beauty & Personal Care,LuxeGlow,Marketplace,West,3,196.28,0,0.0,588.84,215.19,373.65,PayPal,Completed
+TXN-100999,2023-10-04,October,Q4,CUST-3426,SKU-1001,Bluetooth Speaker,Electronics,TechPro,Marketplace,Southeast,1,53.26,20,10.65,42.61,36.64,5.97,PayPal,Returned
+TXN-101000,2023-01-31,January,Q1,CUST-4447,SKU-1032,Shampoo Bar,Beauty & Personal Care,PureSkin,Marketplace,Midwest,1,177.41,15,26.61,150.8,74.99,75.81,Buy Now Pay Later,Completed
